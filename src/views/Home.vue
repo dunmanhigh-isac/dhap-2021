@@ -103,6 +103,17 @@
 
             <hr>
 
+            <div id="opening-address" class=" my-48 mx-18">
+                <div class="vstack align-start space-28">
+                    <div class="text-36">From Unity, Strength</div>
+                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">This year’s DHAP theme is “From Unity, Strength”. Given our increasingly polarised political climate, as well as the rise of unilateralism due to the Covid-19 Pandemic, international relations are being tested now more than ever before. Yet, it is precisely in this precarious position that the importance of unity is emphasised: To amplify strengths and make progress. Through this conference, we hope to explore the untapped potential in diplomacy and collaboration. We hope that delegates can reconcile the various differences that span across each council, while recognising the unique role of each member state in contributing to Southeast Asia’s growth.</div>
+                    <br>
+                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">Ultimately, the robustness of a community relies on the cohesion of its members. We hope that delegates will get the chance to verify this for themselves in DHAP 2021.</div>
+                </div>
+            </div>
+
+            <hr>
+
             <Footer />
         </div>
     </div>
