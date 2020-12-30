@@ -1,0 +1,35 @@
+<template>
+    <footer class="vstack space-28 py-48">
+                <img src="../static/DHAP2021_Logo.svg" class="w-48 h-48 mx-28">
+                <div class="hstack space-28">
+                    <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond">
+                        <i class="fab fa-instagram logo"></i>
+                    </div>
+                    <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond">
+                        <i class="fab fa-facebook-f logo"></i>
+                    </div>
+                    <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond">
+                        <i class="far fa-envelope logo"></i>
+                    </div>
+                </div>
+                <div class="spacer"></div>
+                <div class="vstack space-14">
+                    <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
+                    <div class="w-64 h-12 bg-gray-300 rounded-full"></div>
+                </div>
+            </footer>
+</template>
+
+<style scoped>
+
+.diamond {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.logo {
+    -webkit-transform: rotate(45deg);
+    transform: rotate(-45deg);
+}
+
+</style>

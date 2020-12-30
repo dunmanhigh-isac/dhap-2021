@@ -1,17 +1,134 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title><%= htmlWebpackPlugin.options.title %></title>
-  </head>
-  <body>
+    <title>
+        <%= htmlWebpackPlugin.options.title %>
+    </title>
+    <link rel="stylesheet" href="https://unpkg.com/@zaydek/duomo@0.7.10/dist/duomo-full.css">
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <script defer src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"></script>
+    <script src="https://unpkg.com/smoothscroll-anchor-polyfill"></script>
+</head>
+
+<body>
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
-  </body>
+</body>
+
+<style>
+    html {
+        --scroll-behavior: smooth;
+        scroll-behavior: smooth;
+    }
+    
+    @import "https://unpkg.com/@zaydek/duomo@0.7.0-rc.32/dist/full.css";
+     :root {
+        --bg-color: #F5F5F5;
+        --text-color: #333333;
+        --shadow-md: var(--shadow-md);
+        --my-gray: hsl(var(--gray-200));
+        --hero-gray: hsl(var(--gray-200));
+        --card: #ffffff;
+    }
+    
+    .shadow {
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    }
+    
+    @media (prefers-color-scheme: dark) {
+         :root {
+            --bg-color: #3e4c59;
+            --text-color: #d9e2ec;
+            --shadow-md: var(--shadow-2xl);
+            --my-gray: #102a43;
+            --hero-gray: #7b8794;
+            --card: #486581;
+        }
+        .shadow {
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+        }
+        hr {
+            border-top: 1px solid var(--text-color);
+        }
+    }
+    
+    .bg-hero-gray {
+        background-color: var(--hero-gray);
+    }
+    
+    .bg-my-gray-hover:hover {
+        background-color: var(--my-gray);
+    }
+    
+    .card-bg {
+        background-color: var(--card);
+    }
+    
+    .sandwich {
+        background-color: var(--text-color);
+    }
+    
+    .title {
+        letter-spacing: 0.15m;
+    }
+    
+    body {
+        font-family: Avenir, Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        color: var(--text-color);
+        background-color: var(--bg-color);
+    }
+    
+    .button-hover {
+        cursor: pointer;
+    }
+    
+    .bg-color {
+        background-color: var(--bg-color);
+    }
+    
+    .navbar-spacing {
+        margin-right: -0.35em;
+        letter-spacing: 0.05em;
+    }
+    
+    .hstack:not([class^="w-"]):not([class*=" w-"]):not([class^="h-"]):not([class*=" h-"]):not([data-line]),
+    .vstack:not([class^="w-"]):not([class*=" w-"]):not([class^="h-"]):not([class*=" h-"]):not([data-line]),
+    .zstack:not([class^="w-"]):not([class*=" w-"]):not([class^="h-"]):not([class*=" h-"]):not([data-line]) {
+        align-self: stretch;
+    }
+    
+    .group:hover .group-hover\:unhidden {
+        display: none;
+    }
+    
+    .group:hover>.group-hover\:unhidden {
+        display: var(--dm-unhidden, block);
+    }
+    
+    .hstack.divide-1>*+* {
+        border-left: 1px solid #eee;
+    }
+    
+    .vstack.divide-1>*+* {
+        border-top: 1px solid #eee;
+    }
+</style>
+
+<script>
+    ScrollReveal().reveal('.card', {
+        delay: 100
+    });
+</script>
+
 </html>
