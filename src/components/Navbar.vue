@@ -118,10 +118,10 @@
             <div class="hstack px-24 py-16">
                 <div class="spacer"></div>
                 <div class="group zstack">
-                    <div class="group vstack space-5 mb-5 hover-cursor" @click="hamburger">
-                        <div class="h-2 w-28 bg-black rounded-full sandwich"></div>
-                        <div class="h-2 w-28 bg-black rounded-full sandwich"></div>
-                        <div class="h-2 w-28 bg-black rounded-full sandwich"></div>
+                    <div id="hamburger" class="group vstack space-5 mb-5 hover-cursor">
+                        <div id="hamburger" class="h-2 w-28 bg-black rounded-full sandwich"></div>
+                        <div id="hamburger" class="h-2 w-28 bg-black rounded-full sandwich"></div>
+                        <div id="hamburger" class="h-2 w-28 bg-black rounded-full sandwich"></div>
                     </div>
                     <div id="myLinks" class="hidden bottom-right-0 bottom-0 transform translate-y-100">
                         <!-- Drop down -->
@@ -295,16 +295,17 @@
 </style>
 
 <script>
+import $ from 'jquery'
 export default {
   methods: {
-    hamburger: function () {
+    /* hamburger: function () {
       var x = document.getElementById('myLinks')
       if (x.style.display === 'block') {
         x.style.display = 'none'
       } else {
         x.style.display = 'block'
       }
-    },
+    }, */
     dismiss: function () {
       var x = document.getElementById('myLinks')
       x.style.display = 'none'
@@ -338,6 +339,19 @@ export default {
       var btnContainer = document.querySelector('.color-mode__header')
       btnContainer.style.display = 'none'
     }
+
+    $(document).click(function (e) {
+      // check that your clicked
+      // element has no id=info
+      if (e.target.id !== 'hamburger') {
+        $('#myLinks').hide()
+      }
+    })
+
+    $('#hamburger').click(function () {
+      console.log('clicked')
+      $('#myLinks').show()
+    })
   }
 }
 </script>
