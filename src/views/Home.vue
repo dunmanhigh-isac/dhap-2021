@@ -1,7 +1,7 @@
 <template>
 <div>
-  <div class="vstack w-full" style="height: calc(100vh - 200px)">
-      <div class="vstack space-28 text-stuff px-28">
+  <div class="vstack w-full bg-red-900" style="height: calc(100vh - 200px)">
+      <div class="vstack space-28 text-stuff px-28 bg-blue-900">
         <div class="vstack space-16">
             <div class="top" style="font-weight: 300;">from unity, strength</div>
         </div>
