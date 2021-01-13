@@ -19,7 +19,7 @@
                     <div class="w-224 h-12 bg-gray-300 rounded-full"></div>
                     <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 md:grid-cols-3 gap-18 sm:p-8 my-18">
                         <div class="hstack w-full my-28">
-                            <div class="vstack w-36 h-36 mr-28 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond">
+                            <div class="vstack w-36 h-36 mr-28 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
                                 <i class="fab fa-instagram logo"></i></div>
                             <div class="vstack space-28 align-start">
                                 <div class="w-64 h-10 bg-gray-300 rounded-full"></div>
@@ -28,7 +28,7 @@
                             <div class="unhidden sm:hidden spacer"></div>
                         </div>
                         <div class="hstack w-full my-28">
-                            <div class="vstack w-36 h-36 mr-28 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond">
+                            <div class="vstack w-36 h-36 mr-28 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
                                 <i class="fab fa-facebook-f logo"></i></div>
                             <div class="vstack space-28 align-start">
                                 <div class="w-64 h-10 bg-gray-300 rounded-full"></div>
@@ -37,7 +37,7 @@
                             <div class="unhidden sm:hidden spacer"></div>
                         </div>
                         <div class="hstack w-full my-28">
-                            <div class="vstack w-36 h-36 mr-28 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond">
+                            <div class="vstack w-36 h-36 mr-28 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
                                 <i class="far fa-envelope logo"></i></div>
                             <div class="vstack space-28 align-start">
                                 <div class="w-64 h-10 bg-gray-300 rounded-full"></div>

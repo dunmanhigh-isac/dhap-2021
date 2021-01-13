@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" color-mode="light">
 
 <head>
     <meta charset="utf-8">
@@ -31,37 +31,36 @@
     }
     
     @import "https://unpkg.com/@zaydek/duomo@0.7.0-rc.32/dist/full.css";
-     :root {
+     
+    :root[color-mode="light"] {
         --bg-color: #F5F5F5;
         --text-color: #333333;
         --shadow-md: var(--shadow-md);
         --my-gray: hsl(var(--gray-200));
         --hero-gray: hsl(var(--gray-200));
         --card: #ffffff;
-        --button-hover: hsl(var(--gray-200));
     }
     
     .shadow {
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     }
     
-    @media (prefers-color-scheme: dark) {
-         :root {
+    
+        :root[color-mode="dark"] {
             --bg-color: #3e4c59;
             --text-color: #d9e2ec;
             --shadow-md: var(--shadow-2xl);
             --my-gray: #102a43;
             --hero-gray: #7b8794;
             --card: #486581;
-            --button-hover: hsl(var(--gray-900));
         }
-        .shadow {
+        .shadow[color-mode="dark"] {
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
         }
-        hr {
+        hr[color-mode="dark"] {
             border-top: 1px solid var(--text-color);
         }
-    }
+    
     
     .bg-hero-gray {
         background-color: var(--hero-gray);
@@ -82,9 +81,17 @@
     .title {
         letter-spacing: 0.15m;
     }
+
+    .text-underline:hover {
+        text-decoration: underline;
+    }
+
+    .hover-cursor:hover {
+        cursor: pointer;
+    }
     
     body {
-        font-family: Avenir, Helvetica, Arial, sans-serif;
+        font-family: Tw Cen,Helvetica Neue,Arial,Verdana,sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         color: var(--text-color);

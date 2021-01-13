@@ -9,10 +9,10 @@
             <div class="text-64 title" style="font-weight: 300;">DHAP 2021</div>
         </div>
         <div class="vstack md:hstack space-32 w-full">
-            <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light button-hover ">
+            <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
                 <div class="light text-16 lg:font-24" style="font-weight: 200;">opening address</div>
             </a>
-            <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light button-hover ">
+            <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
                 <div class="light text-16 lg:font-24" style="font-weight: 200;">sign up</div>
             </div>
         </div>
