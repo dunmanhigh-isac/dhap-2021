@@ -1,6 +1,7 @@
 <template>
 <div>
   <div class="vstack space-28 text-stuff w-full" style="height: calc(100vh - 200px)">
+      <div class="p-28">
         <div class="vstack space-16">
             <div class="top" style="font-weight: 300;">from unity, strength</div>
         </div>
@@ -15,6 +16,7 @@
                 <div class="light text-16 lg:font-24" style="font-weight: 200;">sign up</div>
             </div>
         </div>
+      </div>
     </div>
 
     <hr>
