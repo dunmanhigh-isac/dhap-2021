@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="vstack space-28 p-28 text-stuff w-full" style="height: calc(100vh - 200px)">
+  <div class="vstack space-28 text-stuff w-full" style="height: calc(100vh - 200px)">
         <div class="vstack space-16">
             <div class="top" style="font-weight: 300;">from unity, strength</div>
         </div>
