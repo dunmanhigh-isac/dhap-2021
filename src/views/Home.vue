@@ -1,18 +1,18 @@
 <template>
 <div>
-  <div class="vstack w-full bg-red-900" style="height: calc(100vh - 200px)">
-      <div class="vstack space-28 text-stuff mx-28 bg-blue-900">
+  <div class="vstack w-full" style="height: calc(100vh - 200px)">
+      <div class="vstack space-28 text-stuff mx-28">
         <div class="vstack space-16">
             <div class="top" style="font-weight: 300;">from unity, strength</div>
         </div>
         <div class="hstack space-16">
             <div class="text-64 title" style="font-weight: 300;">DHAP 2021</div>
         </div>
-        <div class="vstack md:hstack space-32 w-full bg-yellow-900">
-            <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light hover:bg-gray-900 button-hover ">
+        <div class="vstack md:hstack space-32 w-full">
+            <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light button-hover ">
                 <div class="light text-16 lg:font-24" style="font-weight: 200;">opening address</div>
             </a>
-            <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light hover:bg-gray-900 button-hover ">
+            <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light button-hover ">
                 <div class="light text-16 lg:font-24" style="font-weight: 200;">sign up</div>
             </div>
         </div>
@@ -143,6 +143,10 @@ export default {
         /* Safari and Chrome */
         -o-animation: fadein 2s;
         /* Opera */
+    }
+
+    .button-hover:hover {
+        background-color: var(--button-hover);
     }
 
     @keyframes fadein {
