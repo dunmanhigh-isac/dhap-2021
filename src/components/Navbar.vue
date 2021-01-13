@@ -1,5 +1,5 @@
 <template>
-    <nav class="hstack sticky z-10 t-0 lg:p-32 h-80 shadow shadow-md bg-color">
+    <nav class="hstack sticky z-10 t-0 lg:p-32 h-80  bg-color">
         <!--div class="w-48 h-48 mx-28 border border-2 border-gray-300 rounded-full"></div-->
         <router-link to="/">
             <img src="../static/DHAP2021_Logo.svg" class="w-48 h-48 mx-28">
