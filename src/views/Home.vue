@@ -133,7 +133,7 @@ export default {
 
 <style scoped>
     .image-carousel {
-        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../static/image.jpg');
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../static/image.webp');
         background-repeat: no-repeat;
         background-size: auto auto;
         background-position: center;
