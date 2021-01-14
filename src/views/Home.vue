@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="vstack w-full" style="height: calc(100vh - 200px)">
+  <div class="vstack w-full image-carousel" style="height: calc(100vh - 80px)">
       <div class="vstack space-28 text-stuff mx-28">
         <div class="vstack space-16">
             <div class="top" style="font-weight: 300;">from unity, strength</div>
@@ -132,6 +132,14 @@ export default {
 </script>
 
 <style scoped>
+    .image-carousel {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../static/image.jpg');
+        background-repeat: no-repeat;
+        background-size: auto auto;
+        background-position: center;
+        z-index: 2;
+    }
+
     .text-stuff {
         margin-top: 25px;
         font-size: 21px;
