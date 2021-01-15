@@ -1,6 +1,6 @@
 <template>
 <div>
-  <div class="vstack w-full image-carousel" style="height: calc(100vh - 80px)">
+  <div class="vstack w-full image-carousel" style="height: calc(100vh - 112px)">
       <div class="vstack space-28 text-stuff mx-28">
         <div class="vstack space-16">
             <div class="top" style="font-weight: 300; color: #d9e2ec;">from unity, strength</div>
@@ -87,6 +87,12 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
+            </div-->
+            <div id="opening-address" class=" my-48 mx-18">
+                <div class="vstack align-start space-28">
+                    <div class="text-36">Updates</div>
+                </div>
+                <Instagram />
             </div>
 
             <hr>
@@ -101,8 +107,7 @@
                     <div class="unhidden lg:hidden w-full h-12 bg-gray-300 rounded-full"></div>
                     <div class="unhidden md:hidden w-full h-12 bg-gray-300 rounded-full"></div>
                 </div>
-            </div-->
-            <Instagram />
+            </div>
             <hr>
 
             <div id="opening-address" class=" my-48 mx-18">

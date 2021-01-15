@@ -9,24 +9,25 @@
     <title>
         <%= htmlWebpackPlugin.options.title %>
     </title>
+    <script src="https://www.powr.io/powr.js?platform=vuejs"></script>
     <link rel="stylesheet" href="https://unpkg.com/@zaydek/duomo@0.7.10/dist/duomo-full.css">
     <script src="https://unpkg.com/scrollreveal"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <script defer src="https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js"></script>
     <script src="https://unpkg.com/smoothscroll-anchor-polyfill"></script>
     <script>
-      if (
-        localStorage.getItem("color-mode") === "dark" ||
-        (window.matchMedia("(prefers-color-scheme: dark)").matches &&
-          !localStorage.getItem("color-mode"))
-      ) {
-        document.documentElement.setAttribute("color-mode", "dark");
-      }
+        if (
+            localStorage.getItem("color-mode") === "dark" ||
+            (window.matchMedia("(prefers-color-scheme: dark)").matches &&
+                !localStorage.getItem("color-mode"))
+        ) {
+            document.documentElement.setAttribute("color-mode", "dark");
+        }
     </script>
-    <script src="https://www.powr.io/powr.js?platform=vuejs"></script>
+
 </head>
 
-<body>
+<body class="bg-gray" style="">
     <noscript>
       <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
     </noscript>
@@ -38,15 +39,16 @@
     * {
         transition: background-color 1s ease;
     }
-
+    
     html {
         --scroll-behavior: smooth;
         scroll-behavior: smooth;
+        padding-top: 0;
+        margin-top: 0;
     }
     
     @import "https://unpkg.com/@zaydek/duomo@0.7.0-rc.32/dist/full.css";
-     
-    :root[color-mode="light"] {
+     :root[color-mode="light"] {
         --bg-color: #F5F5F5;
         --text-color: #333333;
         --shadow-md: var(--shadow-md);
@@ -59,22 +61,22 @@
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     }
     
+     :root[color-mode="dark"] {
+        --bg-color: #3e4c59;
+        --text-color: #d9e2ec;
+        --shadow-md: var(--shadow-2xl);
+        --my-gray: #102a43;
+        --hero-gray: #7b8794;
+        --card: #486581;
+    }
     
-        :root[color-mode="dark"] {
-            --bg-color: #3e4c59;
-            --text-color: #d9e2ec;
-            --shadow-md: var(--shadow-2xl);
-            --my-gray: #102a43;
-            --hero-gray: #7b8794;
-            --card: #486581;
-        }
-        .shadow[color-mode="dark"] {
-            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
-        }
-        hr[color-mode="dark"] {
-            border-top: 1px solid var(--text-color);
-        }
+    .shadow[color-mode="dark"] {
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    }
     
+    hr[color-mode="dark"] {
+        border-top: 1px solid var(--text-color);
+    }
     
     .bg-hero-gray {
         background-color: var(--hero-gray);
@@ -95,17 +97,17 @@
     .title {
         letter-spacing: 0.15m;
     }
-
+    
     .text-underline:hover {
         text-decoration: underline;
     }
-
+    
     .hover-cursor:hover {
         cursor: pointer;
     }
     
     body {
-        font-family: Tw Cen,Helvetica Neue,Arial,Verdana,sans-serif;
+        font-family: Tw Cen, Helvetica Neue, Arial, Verdana, sans-serif;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
         color: var(--text-color);
