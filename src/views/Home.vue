@@ -3,27 +3,27 @@
   <div class="vstack w-full image-carousel" style="height: calc(100vh - 80px)">
       <div class="vstack space-28 text-stuff mx-28">
         <div class="vstack space-16">
-            <div class="top" style="font-weight: 300;">from unity, strength</div>
+            <div class="top" style="font-weight: 300; color: #d9e2ec;">from unity, strength</div>
         </div>
         <div class="hstack space-16">
-            <div class="text-64 title" style="font-weight: 300;">DHAP 2021</div>
+            <div class="text-64 title" style="font-weight: 300; color: #d9e2ec;">DHAP 2021</div>
         </div>
         <div class="vstack md:hstack space-32 w-full">
             <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
-                <div class="light text-16 lg:font-24" style="font-weight: 200;">opening address</div>
+                <div class="light text-16 lg:font-24" style="font-weight: 200; color: #d9e2ec;">opening address</div>
             </a>
             <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
-                <div class="light text-16 lg:font-24" style="font-weight: 200;">sign up</div>
+                <div class="light text-16 lg:font-24" style="font-weight: 200; color: #d9e2ec;">sign up</div>
             </div>
         </div>
       </div>
     </div>
 
-    <hr>
+    <!--hr-->
 
     <div class="h-screen">
         <div class="container">
-            <div class="align-self-stretch grid grid-cols-2 mx-18 my-48 sm:grid-cols-3 gap-18 sm:p-8 md:grid-cols-4 my-18" style="grid-template-columns: repeat(auto-fill, minmax(224px, 1fr))">
+            <!--div class="align-self-stretch grid grid-cols-2 mx-18 my-48 sm:grid-cols-3 gap-18 sm:p-8 md:grid-cols-4 my-18" style="grid-template-columns: repeat(auto-fill, minmax(224px, 1fr))">
                 <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
@@ -101,8 +101,8 @@
                     <div class="unhidden lg:hidden w-full h-12 bg-gray-300 rounded-full"></div>
                     <div class="unhidden md:hidden w-full h-12 bg-gray-300 rounded-full"></div>
                 </div>
-            </div>
-
+            </div-->
+            <Instagram />
             <hr>
 
             <div id="opening-address" class=" my-48 mx-18">
@@ -124,9 +124,11 @@
 
 <script>
 import Footer from '../components/Footer'
+import Instagram from '../components/instagram'
 export default {
   components: {
-    Footer
+    Footer,
+    Instagram
   }
 }
 </script>
