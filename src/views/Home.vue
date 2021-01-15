@@ -10,10 +10,10 @@
         </div>
         <div class="vstack md:hstack space-32 w-full">
             <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
-                <div class="light text-16 lg:font-24" style="font-weight: 200; color: #d9e2ec;">opening address</div>
+                <div class="light text-16 lg:font-24" style="font-weight: 200;">opening address</div>
             </a>
             <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
-                <div class="light text-16 lg:font-24" style="font-weight: 200; color: #d9e2ec;">sign up</div>
+                <div class="light text-16 lg:font-24" style="font-weight: 200;">sign up</div>
             </div>
         </div>
       </div>
@@ -23,8 +23,8 @@
 
     <div class="h-screen">
         <div class="container">
-            <!--div class="align-self-stretch grid grid-cols-2 mx-18 my-48 sm:grid-cols-3 gap-18 sm:p-8 md:grid-cols-4 my-18" style="grid-template-columns: repeat(auto-fill, minmax(224px, 1fr))">
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+            <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 md:grid-cols-3 my-18">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -33,7 +33,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -42,7 +42,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -51,7 +51,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -60,7 +60,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -69,7 +69,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -78,7 +78,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-                <div class="card vstack h-auto card-bg rounded-3 shadow shadow-md p-28">
+                <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
                         <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
@@ -87,12 +87,6 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-            </div-->
-            <div id="opening-address" class=" my-48 mx-18">
-                <div class="vstack align-start space-28">
-                    <div class="text-36">Updates</div>
-                </div>
-                <Instagram />
             </div>
 
             <hr>
@@ -129,11 +123,9 @@
 
 <script>
 import Footer from '../components/Footer'
-import Instagram from '../components/instagram'
 export default {
   components: {
-    Footer,
-    Instagram
+    Footer
   }
 }
 </script>
