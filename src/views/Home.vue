@@ -9,11 +9,11 @@
             <div class="text-64 title" style="font-weight: 300; color: #d9e2ec;">DHAP 2021</div>
         </div>
         <div class="vstack md:hstack space-32 w-full">
-            <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
-                <div class="light text-16 lg:font-24" style="font-weight: 200;">opening address</div>
+            <a href="#opening-address" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300">
+                <div class="text-16 lg:font-24 hero-text" style="font-weight: 200;">opening address</div>
             </a>
-            <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300 light bg-my-gray-hover">
-                <div class="light text-16 lg:font-24" style="font-weight: 200;">sign up</div>
+            <div class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-gray-300">
+                <div class="text-16 lg:font-24 hero-text" style="font-weight: 200;">sign up</div>
             </div>
         </div>
       </div>
@@ -23,7 +23,7 @@
 
     <div class="h-screen">
         <div class="container">
-            <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 md:grid-cols-3 my-18">
+            <!--div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 md:grid-cols-3 my-18">
                 <div class="card vstack h-320 card-bg rounded-3 shadow shadow-md p-28">
                     <div class="w-112 h-112 bg-gray-200 rounded-5"></div>
                     <div class="vstack align-start mt-20 space-8 h-auto">
@@ -87,7 +87,7 @@
                         <div class="spacer"></div>
                     </div>
                 </div>
-            </div>
+            </div-->
 
             <hr>
 

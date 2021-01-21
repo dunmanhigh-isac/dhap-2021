@@ -55,6 +55,7 @@
         --my-gray: hsl(var(--gray-200));
         --hero-gray: hsl(var(--gray-200));
         --card: #ffffff;
+        --hero-text: hsl(var(--gray-200));
     }
     
     .shadow {
@@ -66,7 +67,7 @@
         --text-color: #d9e2ec;
         --shadow-md: var(--shadow-2xl);
         --my-gray: #102a43;
-        --hero-gray: #7b8794;
+        --hero-gray: hsl(var(--gray-200));
         --card: #486581;
     }
     
@@ -77,9 +78,9 @@
     hr[color-mode="dark"] {
         border-top: 1px solid var(--text-color);
     }
-    
-    .bg-hero-gray {
-        background-color: var(--hero-gray);
+
+    .hero-text {
+        color: var(--hero-text)
     }
     
     .bg-my-gray-hover:hover {

@@ -25,19 +25,19 @@
                 </div>
 
                 <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 md:grid-cols-3 lg:grid-cols-4 my-18">
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md ">
+                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
 
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md">
+                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
 
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md ">
+                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
 
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md ">
+                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
                 </div>
@@ -50,6 +50,19 @@
     </div>
 </div>
 </template>
+
+<style scoped>
+    .card-shadow:hover {
+        box-shadow: var(--shadow-xl);
+        cursor: pointer;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .card-shadow:hover {
+            box-shadow: var(--shadow-2xl);
+        }
+    }
+</style>
 
 <script>
 import Footer from '../components/Footer'
