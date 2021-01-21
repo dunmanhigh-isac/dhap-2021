@@ -67,7 +67,7 @@
         --text-color: #d9e2ec;
         --shadow-md: var(--shadow-2xl);
         --my-gray: #102a43;
-        --hero-gray: hsl(var(--gray-200));
+        --hero-gray: #7b8794;
         --card: #486581;
     }
     
@@ -79,12 +79,17 @@
         border-top: 1px solid var(--text-color);
     }
 
+    .bg-hero-gray {
+        background-color: var(--hero-gray);
+    }
+
     .hero-text {
         color: var(--hero-text)
     }
     
     .bg-my-gray-hover:hover {
         background-color: var(--my-gray);
+        color: var(--hero-text-hover) !important;
     }
     
     .card-bg {
