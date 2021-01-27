@@ -16,8 +16,8 @@
                 </div>
                 <div class="spacer"></div>
                 <div class="vstack space-14">
-                    <div class="w-128 h-12 bg-gray-300 rounded-full"></div>
-                    <div class="w-64 h-12 bg-gray-300 rounded-full"></div>
+                    <div class="">© Copyright 2021</div>
+                    <div class="">Dunman High School ISAC</div>
                 </div>
             </footer>
 </template>

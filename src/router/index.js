@@ -12,6 +12,9 @@ import AMMTC from '../views/AMMTC.vue'
 import HCC from '../views/HCC.vue'
 import MATM from '../views/M-ATM.vue'
 import UNSC from '../views/UNSC.vue'
+import About from '../views/About.vue'
+import Secretariat from '../views/Secretariat.vue'
+import Welcome from '../views/Welcome.vue'
 
 Vue.use(VueRouter)
 
@@ -19,6 +22,21 @@ const routes = [{
   path: '/',
   name: 'Home',
   component: Home
+},
+{
+  path: '/secretariat',
+  name: 'Secretariat',
+  component: Secretariat
+},
+{
+  path: '/welcome',
+  name: 'Welcome',
+  component: Welcome
+},
+{
+  path: '/about',
+  name: 'About',
+  component: About
 },
 {
   path: '/admin',
