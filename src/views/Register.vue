@@ -18,11 +18,11 @@
                 <div class="vstack mt-128 mx-18 space-64">
 
                     <!--put stuff here-->
-
                 </div>
             </div>
 
             <hr>
+            <Map />
 
             <Footer />
         </div>
