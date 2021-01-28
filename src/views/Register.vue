@@ -1,75 +1,40 @@
 <template>
-  <div>
-    <div>
-      <h2>Search and add a pin</h2>
-      <label>
-        <gmap-autocomplete
-          @place_changed="setPlace">
-        </gmap-autocomplete>
-        <button @click="addMarker">Add</button>
-      </label>
-      <br/>
-
+<div>
+    <div class="hstack w-full bg-hero-gray py-64">
+        <div class="container">
+            <div class="vstack align-start space-48 mx-18">
+                <div class="text-48 title md:text-64" style="font-weight: 300;">Register</div>
+                <div class="vstack space-14 align-start">
+                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
+                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
+                </div>
+            </div>
+        </div>
     </div>
-    <br>
-    <gmap-map
-      :center="center"
-      :zoom="12"
-      style="width:100%;  height: 400px;"
-    >
-      <gmap-marker
-        :key="index"
-        v-for="(m, index) in markers"
-        :position="m.position"
-        @click="center=m.position"
-      ></gmap-marker>
-    </gmap-map>
-  </div>
+
+    <div class="h-screen">
+        <div class="container">
+            <div class="vstack mb-48 mx-18">
+                <div class="vstack mt-128 mx-18 space-64">
+
+                    <!--put stuff here-->
+
+                </div>
+            </div>
+
+            <hr>
+
+            <Footer />
+        </div>
+    </div>
+    </div>
 </template>
 
 <script>
+import Footer from '../components/Footer'
 export default {
-  name: 'GoogleMap',
-  data () {
-    return {
-      // default to Montreal to keep it simple
-      // change this to whatever makes sense
-      center: { lat: 45.508, lng: -73.587 },
-      markers: [],
-      places: [],
-      currentPlace: null
-    }
-  },
-
-  mounted () {
-    this.geolocate()
-  },
-
-  methods: {
-    // receives a place object via the autocomplete component
-    setPlace (place) {
-      this.currentPlace = place
-    },
-    addMarker () {
-      if (this.currentPlace) {
-        const marker = {
-          lat: this.currentPlace.geometry.location.lat(),
-          lng: this.currentPlace.geometry.location.lng()
-        }
-        this.markers.push({ position: marker })
-        this.places.push(this.currentPlace)
-        this.center = marker
-        this.currentPlace = null
-      }
-    },
-    geolocate: function () {
-      navigator.geolocation.getCurrentPosition(position => {
-        this.center = {
-          lat: position.coords.latitude,
-          lng: position.coords.longitude
-        }
-      })
-    }
+  components: {
+    Footer
   }
 }
 </script>
