@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="mt-0 md:my-36 lg:my-48 mx-0 md:mx-64 lg:mx-128">
-      <div class="vstack align-start space-48 w-full p-48 rounded-3 md:shadow md:shadow-2xl">
+      <div class="vstack align-start space-48 w-full p-36 md:p-48 rounded-3 md:shadow md:shadow-2xl">
         <div class="text-48 title md:text-64" style="font-weight: 300;">About DHAP</div>
         <div class="text-20 weight-300 text-justify" style="line-height: 1.2;">
           The Dunman High Model ASEAN Plus Summit (DHAP) is the flagship event of Dunman High School’s International and Strategic Affairs Council (ISAC) with a trademark on ASEAN. The summit brings together young people from the Southeast Asian region and beyond. Delegates engage in intellectually stimulating debates on pertinent regional and global issues that revolve around the United Nations and ASEAN. Through a series of debates, 5 councils ranging from regional to international committees will come up with realistic solutions to resolve issues faced by the world.

@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="mt-0 md:my-36 lg:my-48 mx-0 md:mx-64 lg:mx-128">
-      <div class="vstack align-start space-48 w-full p-48 rounded-3 md:shadow md:shadow-2xl">
+      <div class="vstack align-start space-48 w-full p-36 md:p-48 rounded-3 md:shadow md:shadow-2xl">
         <div class="text-48 title md:text-64" style="font-weight: 300;">Welcome Address</div>
         <div class="text-20 weight-300 text-justify" style="line-height: 1.2;">
           Dear Sir/Madam,

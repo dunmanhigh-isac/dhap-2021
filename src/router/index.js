@@ -15,6 +15,7 @@ import UNSC from '../views/UNSC.vue'
 import About from '../views/About.vue'
 import Secretariat from '../views/Secretariat.vue'
 import Welcome from '../views/Welcome.vue'
+import Register from '../views/Register.vue'
 
 Vue.use(VueRouter)
 
@@ -57,6 +58,11 @@ const routes = [{
   path: '/resources',
   name: 'Resources',
   component: Resources
+},
+{
+  path: '/register',
+  name: 'Register',
+  component: Register
 },
 {
   path: '/schedule',
