@@ -11,7 +11,7 @@
         </div>
     </div>
 
-    <div class="h-screen">
+    <div class="">
         <div class="container">
             <div class="vstack mb-48 mx-18">
 

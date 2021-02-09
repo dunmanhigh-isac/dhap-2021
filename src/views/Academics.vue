@@ -11,7 +11,7 @@
         </div>
     </div>
 
-    <div class="h-screen">
+    <div class="">
         <div class="container">
             <div class="vstack mb-48 mx-18">
                 <!-- <div class="vstack space-36 my-128">
@@ -24,19 +24,19 @@
                 </div> -->
 
                 <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 md:grid-cols-3 lg:grid-cols-4 my-18">
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                    <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div>hello pls</div>
+                    </div>
+
+                    <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
 
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                    <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
 
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <!--image-->
-                    </div>
-
-                    <div class="card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                    <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <!--image-->
                     </div>
                 </div>
@@ -51,6 +51,14 @@
 </template>
 
 <style scoped>
+    .glass-card {
+        background: rgba( 255, 255, 255, 0.25 );
+        backdrop-filter: blur( 1.5px );
+        -webkit-backdrop-filter: blur( 1.0px );
+        border-radius: 10px;
+        border: 1px solid rgba( 255, 255, 255, 0.18 );
+    }
+
     .card-shadow:hover {
         box-shadow: var(--shadow-xl);
         cursor: pointer;

@@ -12,7 +12,7 @@
         </div>
     </div>
 
-    <div class="h-screen">
+    <div class="">
         <div class="container">
             <div class="vstack mb-48 mx-18">
                 <div class="vstack mt-128 mx-18 space-64">
