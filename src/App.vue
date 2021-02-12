@@ -25,7 +25,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   color: var(--text-color);
   background-color: var(--bg-color);
-  background-size: 40px 40px;
-  background-image: radial-gradient(circle, #000000 0.5px, rgba(0, 0, 0, 0) 1px);
 }
 </style>
