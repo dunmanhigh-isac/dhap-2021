@@ -18,17 +18,44 @@
                 <div class="vstack mt-128 mx-18 space-64">
 
                     <!--put stuff here-->
+                    <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 my-18">
+                        <div class="glass-card card vstack w-320 h-auto card-bg rounded-3 shadow shadow-md card-shadow ">
+                            <div class="">
+                                Hello there
+                            </div>
+                            <div class="">
+                                general kenobi
+                            </div>
+                        </div>
+
+                        <div class="glass-card card vstack w-320 h-auto card-bg rounded-3 shadow shadow-md card-shadow">
+                            <div class="">
+                                Hello there
+                            </div>
+                            <div class="">
+                                general kenobi
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
             <hr>
-            <Map />
-
             <Footer />
         </div>
     </div>
     </div>
 </template>
+
+<style scoped>
+.glass-card {
+        background: rgba( 255, 255, 255, 0.25 );
+        backdrop-filter: blur( 1.5px );
+        -webkit-backdrop-filter: blur( 1.0px );
+        border-radius: 10px;
+        border: 1px solid rgba( 255, 255, 255, 0.18 );
+    }
+</style>
 
 <script>
 import Footer from '../components/Footer'
