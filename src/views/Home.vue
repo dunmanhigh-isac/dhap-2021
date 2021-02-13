@@ -20,8 +20,8 @@
                 </div>
             </div>
             <object class="svg-container" style="z-index: 0;">
-                <!-- <img class="light" src="../static/DoveAnimated.svg"/>
-                <img class="dark" src="../static/DoveAnimatedDark.svg"/> -->
+                <!-- <img class="light" src="var(--hero-svg)"/> -->
+                <!-- <img class="dark" src="../static/DoveAnimatedDark.svg"/> -->
             </object>
         </div>
         <!--hr-->
@@ -54,8 +54,8 @@ export default {
 .svg-container {
     width: 580px;
     height: 580px;
-    background-image: var(--hero-svg);
-    background-repeat: no-repeat;
+    background: var(--hero-svg) no-repeat;
+    /* background-repeat: no-repeat; */
 }
 
 @media only screen and (max-width: 768px) {
