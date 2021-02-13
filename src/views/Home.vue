@@ -13,7 +13,7 @@
                         <router-link to="/welcome" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-color">
                             <div class="text-16 lg:font-24 " style="font-weight: 200;">Opening Address</div>
                         </router-link>
-                        <router-link to="/" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-color">
+                        <router-link to="/register" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-color">
                             <div class="text-16 lg:font-24 " style="font-weight: 200;">Sign Up</div>
                         </router-link>
                     </div>

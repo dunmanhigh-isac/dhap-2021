@@ -15,8 +15,7 @@
     <div class="">
         <div class="container">
             <div class="vstack mb-48 mx-18">
-                <div class="vstack mt-128 mx-18 space-64">
-                    <div class="w-224 h-12 bg-gray-300 rounded-full"></div>
+                <div class="vstack mx-18 space-64">
                     <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 md:grid-cols-2 gap-18 sm:p-8 my-18">
                         <div class="hstack w-full my-28">
                             <a href="https://www.instagram.com/dhaseanplus/">
@@ -56,14 +55,14 @@
 
                 </div>
 
-                <div class="vstack lg:hstack space-14 mx-18 lg:mx-128 pb-48">
+                <!-- <div class="vstack lg:hstack space-14 mx-18 lg:mx-128 pb-48">
                     <div class="vstack space-14">
                         <input type="text" class="w-full h-36 px-16 border border-1 border-gray-200 rounded-2 bg-color" placeholder="name" />
                         <input type="text" class="w-full h-36 px-16 border border-1 border-gray-200 rounded-2 bg-color" placeholder="email" />
                         <div class="spacer"></div>
                     </div>
                     <textarea rows="4" cols="50" class="w-full lg:w-640 px-16 py-12 border border-1 border-gray-200 rounded-2 bg-color" placeholder="message"></textarea>
-                </div>
+                </div> -->
             </div>
             <hr>
 
