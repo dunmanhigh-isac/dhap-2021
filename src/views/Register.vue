@@ -18,24 +18,29 @@
                 <div class="vstack mt-128 mx-18 space-64">
 
                     <!--put stuff here-->
-                    <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 my-18">
-                        <div class="glass-card card vstack w-320 h-auto card-bg rounded-3 shadow shadow-md card-shadow " style="justify-items: center;
+                    <div class="align-self-stretch grid grid-cols-1 lg:mx-128 md:grid-cols-2 gap-18 sm:p-8" style="justify-content: center;
   align-items: center;">
-                            <div class="">
-                                Hello there
+                        <div class="glass-card card vstack w-full h-auto card-bg rounded-3 shadow shadow-md card-shadow p-28 align-start space-28">
+                            <div class="weight-800 text-36">
+                                Local Delegates
                             </div>
-                            <div class="">
-                                general kenobi
+                            <div style="line-height: 1.2;">
+                                Lucas ipsum dolor sit amet moff yavin skywalker wookiee palpatine gonk moff k-3po mon solo. Skywalker hutt darth fett jabba wedge. Palpatine mon qui-gon skywalker solo solo. Greedo calrissian chewbacca darth dooku antilles boba. Hutt antilles yavin organa darth. Ahsoka calamari watto palpatine antilles. Ponda tatooine obi-wan organa darth kashyyyk. Jade ackbar twi'lek darth lars. Kashyyyk bothan ackbar skywalker sidious mandalore wedge vader. Kenobi moff maul jawa moff darth solo fett skywalker.
+                            </div>
+                            <div class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
+                                Register
                             </div>
                         </div>
 
-                        <div class="glass-card card vstack w-320 h-auto card-bg rounded-3 shadow shadow-md card-shadow" style="justify-items: center;
-  align-items: center;">
-                            <div class="">
-                                Hello there
+                        <div class="glass-card card vstack w-full h-auto card-bg rounded-3 shadow shadow-md card-shadow p-28 align-start space-28">
+                            <div class="weight-800 text-36">
+                                International Delegates
                             </div>
-                            <div class="">
-                                general kenobi
+                            <div style="line-height: 1.2;">
+                                Lucas ipsum dolor sit amet moff yavin skywalker wookiee palpatine gonk moff k-3po mon solo. Skywalker hutt darth fett jabba wedge. Palpatine mon qui-gon skywalker solo solo. Greedo calrissian chewbacca darth dooku antilles boba. Hutt antilles yavin organa darth. Ahsoka calamari watto palpatine antilles. Ponda tatooine obi-wan organa darth kashyyyk. Jade ackbar twi'lek darth lars. Kashyyyk bothan ackbar skywalker sidious mandalore wedge vader. Kenobi moff maul jawa moff darth solo fett skywalker.
+                            </div>
+                            <div class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
+                                Register
                             </div>
                         </div>
                     </div>
@@ -57,6 +62,14 @@
         border-radius: 10px;
         border: 1px solid rgba( 255, 255, 255, 0.18 );
     }
+
+.button-hover:hover {
+    cursor: pointer;
+}
+
+.button-click:active {
+    box-shadow: 0 0 0 0;
+}
 </style>
 
 <script>
