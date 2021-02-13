@@ -20,8 +20,8 @@
                 </div>
             </div>
             <object class="svg-container" style="z-index: 0;">
-                <!-- <img class="light" src="var(--hero-svg)"/> -->
-                <!-- <img class="dark" src="../static/DoveAnimatedDark.svg"/> -->
+                <img class="light-svg" src="../static/DoveAnimated.svg"/>
+                <img class="dark-svg" src="../static/DoveAnimatedDark.svg"/>
             </object>
         </div>
         <!--hr-->
@@ -36,10 +36,46 @@ export default {
   components: {
     Footer
   }
+  //   mounted () {
+  //     if (window.CSS && CSS.supports('color', 'var(--primary)')) {
+  //       var toggleColorMode = function toggleColorMode (e) {
+  //         // Switch to Light Mode
+  //         if (e.currentTarget.classList.contains('light--hidden')) {
+  //           // Sets the custom html attribute
+  //           document.documentElement.setAttribute('color-mode', 'light') // Sets the user's preference in local storage
+
+  //           localStorage.setItem('color-mode', 'light')
+  //           return
+  //         }
+  //         /* Switch to Dark Mode
+  //     Sets the custom html attribute */
+  //         document.documentElement.setAttribute('color-mode', 'dark') // Sets the user's preference in local storage
+
+  //         localStorage.setItem('color-mode', 'dark')
+  //       } // Get the buttons in the DOM
+
+  //       var toggleColorButtons = document.querySelectorAll('.color-mode__btn') // Set up event listeners
+
+//       toggleColorButtons.forEach(function (btn) {
+//         btn.addEventListener('click', toggleColorMode)
+//       })
+//     } else {
+//       // If the feature isn't supported, then we hide the toggle buttons
+//       var btnContainer = document.querySelector('.dark-svg')
+//       btnContainer.style.display = 'none'
+//     }
+//   }
 }
 </script>
 
 <style scoped>
+:root[color-mode="light"] .dark-svg {
+    display: none;
+}
+
+:root[color-mode="dark"] .light-svg {
+    display: none;
+}
 
 .border-color {
     border-color: var(--text-color)
@@ -54,7 +90,7 @@ export default {
 .svg-container {
     width: 580px;
     height: 580px;
-    background: var(--hero-svg) no-repeat;
+    /* background: var(--hero-svg) no-repeat; */
     /* background-repeat: no-repeat; */
 }
 
