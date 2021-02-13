@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="zstack">
-            <div class="vstack w-full glass-card" style="height: calc(100vh - 140px); z-index: 1;">
+            <div class="vstack w-full glass-card h-640" style="z-index: 1;">
                 <div id="hero-text" class="vstack space-28 text-stuff mx-28">
                     <div class="vstack space-16">
                         <div class="top" style="font-weight: 300;">from unity, strength</div>
