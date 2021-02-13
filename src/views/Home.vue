@@ -2,7 +2,7 @@
     <div>
         <div class="zstack">
             <div class="vstack w-full glass-card" style="height: calc(100vh - 140px); z-index: 1;">
-                <div class="vstack space-28 text-stuff mx-28">
+                <div id="hero-text" class="vstack space-28 text-stuff mx-28">
                     <div class="vstack space-16">
                         <div class="top" style="font-weight: 300;">from unity, strength</div>
                     </div>
@@ -92,6 +92,21 @@ export default {
     height: 580px;
     /* background: var(--hero-svg) no-repeat; */
     /* background-repeat: no-repeat; */
+}
+
+#hero-text {
+    animation: fade-in-move-down 0.7s;
+}
+
+@keyframes fade-in-move-down {
+  0% {
+    opacity: 0;
+    transform: translateY(3rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 @media only screen and (max-width: 768px) {

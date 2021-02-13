@@ -8,12 +8,14 @@
                     <i class="fab fa-instagram logo"></i>
                 </div>
             </a>
-            <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
+            <!-- <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
                 <i class="fab fa-facebook-f logo"></i>
-            </div>
-            <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
-                <i class="far fa-envelope logo"></i>
-            </div>
+            </div> -->
+            <a href="mailto: aseanplus.communications@dhs.sg">
+                <div class="vstack w-36 h-36 rounded-2 border border-gray-300 border-2 bg-my-gray-hover diamond hover-cursor">
+                    <i class="far fa-envelope logo"></i>
+                </div>
+            </a>
         </div>
         <div class="spacer"></div>
         <div class="vstack space-14">
