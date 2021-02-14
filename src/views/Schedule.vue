@@ -19,39 +19,113 @@
 
                         <!--put stuff here-->
 
-                        <div class="item ">
-                            <div id="timeline">
-                                <div>
-                                    <section class="year">
-                                        <h3>2007</h3>
-                                        <section>
-                                            <ul>
-                                                <li>Satoshi Nakamoto began working on the Bitcoin concept.</li>
-                                            </ul>
+                        <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 md:grid-cols-2 lg:grid-cols-3 gap-18 sm:p-8 my-18">
+                            <div class="item">
+                                <div id="timeline">
+                                    <div>
+                                        <section class="year">
+                                            <h3>2007</h3>
+                                            <section>
+                                                <ul>
+                                                    <li>Satoshi Nakamoto began working on the Bitcoin concept.</li>
+                                                </ul>
+                                            </section>
                                         </section>
-                                    </section>
-                                    <section class="year">
-                                        <h3>2008</h3>
-                                        <section>
-                                            <h4>August</h4>
-                                            <ul>
-                                                <li>Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.</li>
-                                                <li>Bitcoin.org was registered at <a href="https://anonymousspeech.com/">anonymousspeech.com</a>.</li>
-                                            </ul>
+                                        <section class="year">
+                                            <h3>2008</h3>
+                                            <section>
+                                                <h4>August</h4>
+                                                <ul>
+                                                    <li>Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.</li>
+                                                    <li>Bitcoin.org was registered at <a href="https://anonymousspeech.com/">anonymousspeech.com</a>.</li>
+                                                </ul>
+                                            </section>
+                                            <section>
+                                                <h4>October</h4>
+                                                <ul>
+                                                    <li>Nakamoto describes the Bitcoin currency and solves the problem of double spending.</li>
+                                                </ul>
+                                            </section>
+                                            <section>
+                                                <h4>November</h4>
+                                                <ul>
+                                                    <li>The Bitcoin project is registered on <a href="https://sourceforge.net/">SourceForge.net</a>.</li>
+                                                </ul>
+                                            </section>
                                         </section>
-                                        <section>
-                                            <h4>October</h4>
-                                            <ul>
-                                                <li>Nakamoto describes the Bitcoin currency and solves the problem of double spending.</li>
-                                            </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div id="timeline">
+                                    <div>
+                                        <section class="year">
+                                            <h3>2007</h3>
+                                            <section>
+                                                <ul>
+                                                    <li>Satoshi Nakamoto began working on the Bitcoin concept.</li>
+                                                </ul>
+                                            </section>
                                         </section>
-                                        <section>
-                                            <h4>November</h4>
-                                            <ul>
-                                                <li>The Bitcoin project is registered on <a href="https://sourceforge.net/">SourceForge.net</a>.</li>
-                                            </ul>
+                                        <section class="year">
+                                            <h3>2008</h3>
+                                            <section>
+                                                <h4>August</h4>
+                                                <ul>
+                                                    <li>Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.</li>
+                                                    <li>Bitcoin.org was registered at <a href="https://anonymousspeech.com/">anonymousspeech.com</a>.</li>
+                                                </ul>
+                                            </section>
+                                            <section>
+                                                <h4>October</h4>
+                                                <ul>
+                                                    <li>Nakamoto describes the Bitcoin currency and solves the problem of double spending.</li>
+                                                </ul>
+                                            </section>
+                                            <section>
+                                                <h4>November</h4>
+                                                <ul>
+                                                    <li>The Bitcoin project is registered on <a href="https://sourceforge.net/">SourceForge.net</a>.</li>
+                                                </ul>
+                                            </section>
                                         </section>
-                                    </section>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div id="timeline">
+                                    <div>
+                                        <section class="year">
+                                            <h3>2007</h3>
+                                            <section>
+                                                <ul>
+                                                    <li>Satoshi Nakamoto began working on the Bitcoin concept.</li>
+                                                </ul>
+                                            </section>
+                                        </section>
+                                        <section class="year">
+                                            <h3>2008</h3>
+                                            <section>
+                                                <h4>August</h4>
+                                                <ul>
+                                                    <li>Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application.</li>
+                                                    <li>Bitcoin.org was registered at <a href="https://anonymousspeech.com/">anonymousspeech.com</a>.</li>
+                                                </ul>
+                                            </section>
+                                            <section>
+                                                <h4>October</h4>
+                                                <ul>
+                                                    <li>Nakamoto describes the Bitcoin currency and solves the problem of double spending.</li>
+                                                </ul>
+                                            </section>
+                                            <section>
+                                                <h4>November</h4>
+                                                <ul>
+                                                    <li>The Bitcoin project is registered on <a href="https://sourceforge.net/">SourceForge.net</a>.</li>
+                                                </ul>
+                                            </section>
+                                        </section>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -145,7 +219,6 @@ div.header h2 {
 div.item {
     display: flex;
     flex: auto;
-    overflow-y: auto;
     padding: 0rem 1rem 0rem 1rem;
 }
 
