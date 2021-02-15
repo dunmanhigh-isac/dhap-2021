@@ -166,7 +166,7 @@ h1 {
 
 li {
     padding-bottom: 1.5rem;
-    border-left: 1px solid black;
+    border-left: 1px solid var(--text-color);
     position: relative;
     padding-left: 20px;
     margin-left: 10px;
@@ -181,7 +181,7 @@ li:before {
     content: "";
     width: 15px;
     height: 15px;
-    background: black;
+    background: var(--text-color);
     border-radius: 50%;
     position: absolute;
     left: -7px;
@@ -189,7 +189,6 @@ li:before {
 }
 
 .time {
-    color: #2a2839;
     font-family: "Poppins", sans-serif;
     font-weight: 900;
 }
