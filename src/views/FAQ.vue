@@ -17,7 +17,7 @@
                 <div class="vstack mb-48 mt-28 mx-18 ">
                     <ul>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>How will council sessions be conducted?</h2>
                             <p>The conference will be conducted on Discord, following Singapore’s timezone (GMT +08:00). Adjustments will be made to the Rules of Procedure (ROP) to ensure the smooth running of debate. Stay tuned for the release of the revised
@@ -25,7 +25,7 @@
                             </p>
                         </li>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>Who can participate in Dunman High Model ASEAN Plus Summit (DHAP)?</h2>
                             <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from 15 to 19 years old. Should you fall outside this age group, we still encourage application, nevertheless, and will process them on a case-by-case basis. Registration
@@ -33,14 +33,14 @@
                             </p>
                         </li>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>Do I have a choice of council and country?</h2>
                             <p>Delegates will have the opportunity to indicate their council preferences when they register. However, the eventual allocation will be assigned by the Secretariat.
                             </p>
                         </li>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>How can I register for DHAP 2021?</h2>
                             <p>Registration can be made as a school delegation or an independent delegate. Registration begins on 18 February 2019 and ends on 24 March 2019. To register, please fill up the form which will be found under the ‘Registration’ tab
@@ -48,21 +48,21 @@
                             </p>
                         </li>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>How many delegations can each school register?</h2>
                             <p>Each school can register one delegation. There is a minimum of five delegates per delegation.
                             </p>
                         </li>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>Will awards be issued?</h2>
                             <p>In recognition of delegates’ performance, awards will still be issued for DHAP 2021.
                             </p>
                         </li>
                         <li>
-                            <input type="checkbox" checked>
+                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2>I am not familiar with Discord. Can I still participate?</h2>
                             <p>Yes
@@ -90,7 +90,7 @@ p {
 
 .no-select,
 h2 {
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-tap-highlight-color: transparent;
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
