@@ -14,8 +14,7 @@
 
     <div class="">
         <div class="container">
-            <div class="vstack mb-48 mx-18">
-                <div class="vstack mt-128 mx-18 space-64">
+            <div class="vstack my-48 mx-18">
 
                     <!--put stuff here-->
                     <div class="align-self-stretch grid grid-cols-1 lg:mx-128 md:grid-cols-2 gap-18 sm:p-8" style="justify-content: center;
@@ -44,7 +43,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
             </div>
 
             <hr>
