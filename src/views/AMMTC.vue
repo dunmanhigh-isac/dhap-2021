@@ -32,7 +32,7 @@ Therefore, delegates are to analyse and build on current ASEAN policies while co
 
                 <div class="vstack mt-128 mx-18 space-64 md:px-128">
 
-                    <div class="vstack lg:hstack w-full mx-18">
+                    <div class="vstack lg:hstack w-full mx-18 scroll-card">
                         <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                         <div class="hidden lg:unhidden spacer"></div>
                         <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
@@ -44,7 +44,7 @@ Therefore, delegates are to analyse and build on current ASEAN policies while co
                         </div>
                     </div>
 
-                    <div class="vstack lg:hstack w-full mx-18">
+                    <div class="vstack lg:hstack w-full mx-18 scroll-card">
 
                         <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
 
@@ -59,7 +59,7 @@ Therefore, delegates are to analyse and build on current ASEAN policies while co
                         <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                     </div>
 
-                    <div class="vstack lg:hstack w-full mx-18">
+                    <div class="vstack lg:hstack w-full mx-18 scroll-card">
                         <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                         <div class="hidden lg:unhidden spacer"></div>
                         <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
