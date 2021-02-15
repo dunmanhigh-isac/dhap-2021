@@ -97,7 +97,13 @@ h2 {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    font-size: 14px !important;
+    font-size: 18px !important;
+}
+
+@media only screen and (max-width: 768px) {
+    h2 {
+        font-size: 14px !important;
+    }
 }
 
 h1 {
