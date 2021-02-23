@@ -20,7 +20,7 @@
                     <div class="align-self-stretch grid grid-cols-1 lg:mx-128 md:grid-cols-2 gap-18 sm:p-8" style="justify-content: center;
   align-items: center;">
                         <div class="glass-card card vstack w-full h-auto card-bg rounded-3 shadow shadow-md card-shadow p-28 align-start space-28">
-                            <div class="weight-800 text-36">
+                            <div class="weight-600 text-36">
                                 Local Delegates
                             </div>
                             <div style="line-height: 1.2;">
@@ -32,7 +32,7 @@
                         </div>
 
                         <div class="glass-card card vstack w-full h-auto card-bg rounded-3 shadow shadow-md card-shadow p-28 align-start space-28">
-                            <div class="weight-800 text-36">
+                            <div class="weight-600 text-36">
                                 International Delegates
                             </div>
                             <div style="line-height: 1.2;">
