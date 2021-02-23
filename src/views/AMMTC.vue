@@ -1,7 +1,7 @@
 <template>
 <div>
     <div class="hstack w-full bg-hero-gray py-64">
-        <div class="container">
+        <div class="container md:px-36">
             <div class="vstack space-48 mx-18">
                 <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">ASEAN Ministerial Meeting on Transnational Crime</div>
                 <div class="vstack space-14 align-start">

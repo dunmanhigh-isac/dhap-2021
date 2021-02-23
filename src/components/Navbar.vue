@@ -125,7 +125,7 @@
                     </div>
                     <div id="myLinks" class="hidden bottom-right-0 bottom-0 transform translate-y-100">
                         <!-- Drop down -->
-                        <div class="vstack py-16 w-224 card-bg rounded-12 shadow shadow-px shadow-lg">
+                        <div class="vstack py-16 w-half sm:w-224 card-bg rounded-12 shadow shadow-px shadow-lg">
                             <!-- Drop down item -->
                             <div class="group zstack">
                                 <router-link to="/about" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
@@ -291,6 +291,10 @@
 
 :root[color-mode="dark"] .dark--hidden {
     display: none;
+}
+
+.w-half {
+    width: 40vw;
 }
 </style>
 

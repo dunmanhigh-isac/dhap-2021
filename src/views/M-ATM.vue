@@ -1,8 +1,8 @@
 <template>
 <div>
     <div class="hstack w-full bg-hero-gray py-64">
-        <div class="container">
-            <div class="vstack space-48 mx-18">
+        <div class="container md:px-36">
+            <div class="vstack space-48 px-18">
                 <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">Asean Tourism Ministers’ Meeting</div>
                 <div class="vstack space-14 align-start">
                     <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The ASEAN Tourism Ministers’ Meeting, otherwise known as the M-ATM, had its first meeting in 1998. Since then, the council has strived to facilitate cooperation within ASEAN’s tourism sector, market the ASEAN region as a collective tourist destination and facilitate intra-ASEAN travel. Tourism is a critical sector of ASEAN’s economy - accounting for 14.3% of ASEAN’s GDP in 2020.</div>
