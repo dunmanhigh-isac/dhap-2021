@@ -23,24 +23,26 @@
                             <div class="weight-600 text-36">
                                 Local Delegates
                             </div>
-                            <div style="line-height: 1.2;">
-                                Lucas ipsum dolor sit amet moff yavin skywalker wookiee palpatine gonk moff k-3po mon solo. Skywalker hutt darth fett jabba wedge. Palpatine mon qui-gon skywalker solo solo. Greedo calrissian chewbacca darth dooku antilles boba. Hutt antilles yavin organa darth. Ahsoka calamari watto palpatine antilles. Ponda tatooine obi-wan organa darth kashyyyk. Jade ackbar twi'lek darth lars. Kashyyyk bothan ackbar skywalker sidious mandalore wedge vader. Kenobi moff maul jawa moff darth solo fett skywalker.
+                            <div style="line-height: 1.4;">
+                                Registration for local delegates is now open and will close on [insert date] 23:59 (GMT +08:00). Delegates should be between the age of [age] and [age]. Local delegates will also be required to pay a fee of [amount] as there will be an exclusive DHAP merchandise pack sent to every local participant. Maybe can write about how only one delegate from one school per delegation?
                             </div>
-                            <div class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
+                            <div class="spacer"></div>
+                            <a href="https://forms.gle/WGjvQwQec3FMQNZeA" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
                                 Register
-                            </div>
+                            </a>
                         </div>
 
                         <div class="glass-card card vstack w-full h-auto card-bg rounded-3 shadow shadow-md card-shadow p-28 align-start space-28">
                             <div class="weight-600 text-36">
                                 International Delegates
                             </div>
-                            <div style="line-height: 1.2;">
-                                Lucas ipsum dolor sit amet moff yavin skywalker wookiee palpatine gonk moff k-3po mon solo. Skywalker hutt darth fett jabba wedge. Palpatine mon qui-gon skywalker solo solo. Greedo calrissian chewbacca darth dooku antilles boba. Hutt antilles yavin organa darth. Ahsoka calamari watto palpatine antilles. Ponda tatooine obi-wan organa darth kashyyyk. Jade ackbar twi'lek darth lars. Kashyyyk bothan ackbar skywalker sidious mandalore wedge vader. Kenobi moff maul jawa moff darth solo fett skywalker.
+                            <div style="line-height: 1.4;">
+                                Registration for international delegates is now open and will close on [insert date] 23:59 (GMT +08:00). Delegates should be between the age of [age] and [age]. DHAP will be free of charge for international delegates.
                             </div>
-                            <div class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
+                            <div class="spacer"></div>
+                            <a href="https://forms.gle/nK42QiyNAbQSSVgC8" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
                                 Register
-                            </div>
+                            </a>
                         </div>
                     </div>
             </div>
