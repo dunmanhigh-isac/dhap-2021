@@ -16,6 +16,7 @@ import About from '../views/About.vue'
 import Secretariat from '../views/Secretariat.vue'
 import Welcome from '../views/Welcome.vue'
 import Register from '../views/Register.vue'
+import Writeup from '../views/WriteupsPlaceholder'
 
 Vue.use(VueRouter)
 
@@ -98,6 +99,11 @@ const routes = [{
   path: '/unsc',
   name: 'UNSC',
   component: UNSC
+},
+{
+  path: '/writeups',
+  name: 'writeup',
+  component: Writeup
 }
 ]
 

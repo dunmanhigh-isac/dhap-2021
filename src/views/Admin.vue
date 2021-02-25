@@ -25,18 +25,22 @@
 
                 <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 sm:grid-cols-2 gap-18 sm:p-8 md:grid-cols-3 lg:grid-cols-4 my-18">
                     <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div>work in progress</div>
                         <!--image-->
                     </div>
 
                     <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div>work in progress</div>
                         <!--image-->
                     </div>
 
                     <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div>work in progress</div>
                         <!--image-->
                     </div>
 
                     <div class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div>work in progress</div>
                         <!--image-->
                     </div>
                 </div>
