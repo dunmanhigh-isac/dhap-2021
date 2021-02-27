@@ -4,10 +4,10 @@
             <div class="container">
                 <div class="vstack align-start space-48 mx-18">
                     <div class="text-48 title md:text-64" style="font-weight: 300;">FAQ</div>
-                    <div class="vstack space-14 align-start">
+                    <!-- <div class="vstack space-14 align-start">
                         <div class="w-full h-20 bg-gray-400 rounded-full"></div>
                         <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -21,16 +21,15 @@
                             <i></i>
                             <h2 style="font-weight: 900;">How will council sessions be conducted?</h2>
                             <p>The conference will be conducted on Discord, following Singapore’s timezone (GMT +08:00). Adjustments will be made to the Rules of Procedure (ROP) to ensure the smooth running of debate. Stay tuned for the release of the revised
-                                ROP!
+                                ROP on our website http://dhaseanplus.com.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2 style="font-weight: 900;">Who can participate in Dunman High Model ASEAN Plus Summit (DHAP)?</h2>
-                            <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from 15 to 19 years old. Should you fall outside this age group, we still encourage application, nevertheless, and will process them on a case-by-case basis. Registration
-                                will be processed on a first come, first served basis and the organisers reserve the right to turn down registrations in the event of oversubscription.
-    
+                            <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from 14 to 18 years old. Applicants outside of this age group are still encouraged to apply, and will be processed on a case-by-case basis. Registration will be
+                                processed on a first come, first served basis and the organisers reserve the right to turn down registrations in the event of oversubscription.
                             </p>
                         </li>
                         <li>
@@ -43,30 +42,25 @@
                         <li>
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
-                            <h2 style="font-weight: 900;">How can I register for DHAP 2021?</h2>
-                            <p>Registration can be made as a school delegation or an independent delegate. Registration begins on 18 February 2019 and ends on 24 March 2019. To register, please fill up the form which will be found under the ‘Registration’ tab
-                                of our website.
-                            </p>
-                        </li>
-                        <li>
-                            <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
-                            <i></i>
                             <h2 style="font-weight: 900;">How many delegations can each school register?</h2>
-                            <p>Each school can register one delegation. There is a minimum of five delegates per delegation.
+                            <p>Each school can register one delegation. Each delegation can send a minimum of 5 delegates and a maximum of 8 delegates. However, should your delegation be interested but do not meet the requirement, please contact us at the above
+                                email, please contact us at the above email.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
-                            <h2 style="font-weight: 900;">Will awards be issued?</h2>
-                            <p>In recognition of delegates’ performance, awards will still be issued for DHAP 2021.
+                            <h2 style="font-weight: 900;">How can I register for DHAP 2021?</h2>
+                            <p>Registration can be made as a school delegation or an independent delegate. Registration begins on DD February 2021 and ends on DD March 2021. To register, please fill up the form which will be found under the ‘Registration’ tab
+                                of our website and email to aseanplus.communications@dhs.sg.
                             </p>
                         </li>
                         <li>
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
-                            <h2 style="font-weight: 900;">I am not familiar with Discord. Can I still participate?</h2>
-                            <p>There's no answer for this in the docs, pls help
+                            <h2 style="font-weight: 900;">Will certificates / awards be issued?</h2>
+                            <p>In recognition of delegates’ performance, all delegates who meet the requirement will be awarded a certificate of participation. Delegates who excelled demonstrate excellence during the conference will be conferred with additional
+                                recognition.
                             </p>
                         </li>
                     </ul>

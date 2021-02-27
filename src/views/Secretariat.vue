@@ -2,10 +2,10 @@
 <div>
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
-            <div class="vstack space-48 mx-18">
+            <div class="vstack space-48 mx-18 align-center">
                 <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">The Secretariat</div>
-                <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempor vitae massa malesuada imperdiet. Curabitur sed pretium arcu. Aliquam ultricies, sapien lacinia placerat tincidunt, nisl tellus finibus dolor, et pretium purus quam sed lectus. Nullam laoreet, dui in tempor accumsan, metus nibh fermentum est, in venenatis magna urna eu lorem. Morbi eleifend turpis at mollis pretium. Suspendisse potenti. Suspendisse eu molestie leo, id sollicitudin sem. Mauris a dignissim ipsum. Ut dictum, orci quis elementum volutpat, nunc ex semper tortor, a mattis magna augue non magna. Donec cursus urna eu tortor iaculis, sed aliquet enim fringilla. Donec nec turpis nisi. Aliquam diam ante, tempor egestas ipsum sit amet, viverra eleifend neque. Donec iaculis diam sed urna rutrum posuere. Aenean at elit non ex fringilla elementum. Praesent in condimentum metus.</div>
+                <div class="vstack space-14 "> <!-- add align-start here -->
+                    <div class="text-20 weight-300  text-justify" style="line-height: 1.2;">Stay tuned to find out the team that helms this year’s edition of DHAP!</div> <!-- add w-full here -->
                 </div>
             </div>
         </div>

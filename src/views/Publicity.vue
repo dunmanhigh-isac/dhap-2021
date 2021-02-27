@@ -2,10 +2,10 @@
 <div>
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
-            <div class="vstack space-48 mx-18">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">Historical Crisis Council</div>
+            <div class="vstack space-48 px-18">
+                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">Publicity</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">Unlike other councils, the Historical Crisis Council moves forward in time as the session progresses, and will be affected by delegates’ decisions and backroom updates in real time. This council is created specifically for Model UNs, and seeks to simulate the complexity and thrill of past crises while encouraging delegates to create their own storyline to explore alternative historical courses.</div>
+                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The Publicity sub-committee seeks to generate interest about DHAP on our social media platform both locally and internally. They also keep delegates up to date with the latest news and updates about DHAP. Behind the aesthetic posts is a team of four that is hard at work editing! This year, they are also collaborating with Project Planning to bring you a special video production! Other than ensuring DHAP’s social media account is glam for the gram, their posts also make sure that delegates are well-informed and prepared!</div>
                 </div>
             </div>
         </div>
@@ -15,15 +15,9 @@
         <div class="container">
             <div class="vstack mb-48 mx-18">
 
-                <div class="vstack space-36 my-48 md:mx-128">
-                    <div class="weight-500 text-36 text-center">Outbreak of War in Iraq</div>
-                    <div class="text-20 text-justify" style="line-height: 1.2;">This year’s rendition of HCC will see delegates going back in time to the outbreak of the Iraq War in 2003 - a pivotal event that would shape the relations between the West and Middle East for years to come. In this council, delegates will plunge headfirst into the vicious combat of advancing their national interests, while considering the legality of the actions taken by all parties. Skills like critical thinking and adaptability will be tested as delegates navigate their way through this controversial and convoluted war, and ultimately try to restore world peace.
-</div>
-                </div>
+                <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
 
-                <div class="vstack mt-128 mx-18 space-64 md:px-128">
-
-                    <div class="vstack lg:hstack w-full mx-18 scroll-card">
+                    <div class="vstack lg:hstack w-full mx-18">
                         <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                         <div class="hidden lg:unhidden spacer"></div>
                         <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">

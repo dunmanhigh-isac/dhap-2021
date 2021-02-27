@@ -17,6 +17,10 @@ import Secretariat from '../views/Secretariat.vue'
 import Welcome from '../views/Welcome.vue'
 import Register from '../views/Register.vue'
 import Writeup from '../views/WriteupsPlaceholder'
+import Publicity from '../views/Publicity'
+import Communications from '../views/Communications'
+import ProjectPlanning from '../views/ProjectPlanning'
+import Design from '../views/Design'
 
 Vue.use(VueRouter)
 
@@ -104,6 +108,26 @@ const routes = [{
   path: '/writeups',
   name: 'writeup',
   component: Writeup
+},
+{
+  path: '/publicity',
+  name: 'publicity',
+  component: Publicity
+},
+{
+  path: '/communications',
+  name: 'communications',
+  component: Communications
+},
+{
+  path: '/projectplanning',
+  name: 'projectplanning',
+  component: ProjectPlanning
+},
+{
+  path: '/design',
+  name: 'design',
+  component: Design
 }
 ]
 

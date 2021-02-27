@@ -14,19 +14,19 @@
                         <div class="vstack align-start w-full py-16 card-bg rounded-12 shadow shadow-px shadow-lg">
                             <!-- Nested drop down item -->
                             <router-link to="/welcome" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
                                     <div class="nested">Welcome Address</div>
                                 </div>
                             </router-link>
                             <!-- Nested drop down item -->
                             <router-link to="/about" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
                                     <div class="nested">About DHAP</div>
                                 </div>
                             </router-link>
                             <!-- Nested drop down item -->
                             <router-link to="/secretariat" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
                                     <div class="nested">The Secretariat</div>
                                 </div>
                             </router-link>
@@ -75,27 +75,27 @@
                     <div class="hidden group-hover:unhidden bottom-0 transform translate-y-100">
                         <div class="vstack align-start w-full py-16 w-224 card-bg rounded-12 shadow shadow-px shadow-lg">
                             <!-- Nested drop down item -->
-                            <router-link to="/writeups" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                    <div class="nested">Writeup</div>
+                            <router-link to="/publicity" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Publicity</div>
                                 </div>
                             </router-link>
                             <!-- Nested drop down item -->
-                            <router-link to="/writeups" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                    <div class="nested">Writeup</div>
+                            <router-link to="/communications" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Communications</div>
                                 </div>
                             </router-link>
                             <!-- Nested drop down item -->
-                            <router-link to="/writeups" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                    <div class="nested">Writeup</div>
+                            <router-link to="/projectplanning" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Project Planning</div>
                                 </div>
                             </router-link>
                             <!-- Nested drop down item -->
-                            <router-link to="/writeups" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                    <div class="nested">Writeup</div>
+                            <router-link to="/design" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Design</div>
                                 </div>
                             </router-link>
                         </div>
@@ -103,7 +103,7 @@
                 </div>
                 <router-link to="/schedule" class="mb-5 text-underline">Schedule</router-link>
                 <router-link to="/resources" class="mb-5 text-underline">Resources</router-link>
-                <router-link to="/register" class="mb-5 text-underline">Register</router-link>
+                <router-link to="/register" class="mb-5 text-underline">Registration</router-link>
                 <router-link to="/faq" class="mb-5 text-underline">FAQ</router-link>
                 <router-link to="/contact" class="mb-5 text-underline">Contact Us</router-link>
                 <button class="color-mode__btn light--hidden">
@@ -209,26 +209,26 @@
                                     <div class="vstack align-start w-full py-16 w-224 card-bg rounded-12 shadow shadow-px shadow-lg">
                                         <!-- Nested drop down item -->
                                         <div class="group zstack">
-                                            <router-link to="/writeup" class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                                <div class="xs-nested">Writeup</div>
+                                            <router-link to="/publicity" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">Publicity</div>
                                             </router-link>
                                         </div>
                                         <!-- Nested drop down item -->
                                         <div class="group zstack">
-                                            <router-link to="/writeup" class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                                <div class="xs-nested">Writeup</div>
+                                            <router-link to="/communications" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">Communications</div>
                                             </router-link>
                                         </div>
                                         <!-- Nested drop down item -->
                                         <div class="group zstack">
-                                            <router-link to="/writeup" class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                                <div class="xs-nested">Writeup</div>
+                                            <router-link to="/projectplanning" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">Project Planning</div>
                                             </router-link>
                                         </div>
                                         <!-- Nested drop down item -->
                                         <div class="group zstack">
-                                            <router-link to="/writeup" class="vstack align-start space-8 p-16 bg-my-gray-hover">
-                                                <div class="xs-nested">Writeup</div>
+                                            <router-link to="/design" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">Design</div>
                                             </router-link>
                                         </div>
                                     </div>
@@ -249,7 +249,7 @@
                             <!-- Drop down item -->
                             <router-link to="/register" class="group zstack">
                                 <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
-                                    <div class="">Register</div>
+                                    <div class="">Registration</div>
                                 </div>
                             </router-link>
                             <!-- Drop down item -->
