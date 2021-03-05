@@ -5,40 +5,40 @@
                 <div class="vstack align-start space-48 mx-18">
                     <div class="text-48 title md:text-64" style="font-weight: 500;">Schedule</div>
                     <!-- <div class="vstack space-14 align-start">
-                        <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                        <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                    </div> -->
+                            <div class="w-full h-20 bg-gray-400 rounded-full"></div>
+                            <div class="w-full h-20 bg-gray-400 rounded-full"></div>
+                        </div> -->
                 </div>
             </div>
         </div>
-
+    
         <!-- <div class="">
-        <div class="container">
-            <div class="vstack mb-48 mx-18">
-                <div class="vstack my-128 mx-18 space-64">
-
-                    <div class="text-48">Work in progress</div>
-
-                    put stuff here
-
+            <div class="container">
+                <div class="vstack mb-48 mx-18">
+                    <div class="vstack my-128 mx-18 space-64">
+    
+                        <div class="text-48">Work in progress</div>
+    
+                        put stuff here
+    
+                    </div>
                 </div>
+    
+                <hr>
+    
+                <Footer />
             </div>
-
-            <hr>
-
-            <Footer />
-        </div>
-    </div>  -->
+        </div>  -->
     
         <div class="">
             <div class="container">
                 <div class="vstack space-48 my-48 mr-20 md:align-start">
                     <div class="text-center md:text-left">
-                    <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 1</div>
-                    <div class="weight-300 text-14 md:text-20 mt-10">2nd June</div>
+                        <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 1</div>
+                        <div class="weight-300 text-14 md:text-20 mt-10">2nd June</div>
                     </div>
                     <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
-                    <div class="vstack" >
+                    <div class="vstack">
                         <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
                             <div class="container w-full">
                                 <div class="timeline-item">
@@ -50,7 +50,7 @@
                                     </div>
                                 </div>
     
-
+    
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -86,7 +86,7 @@
                                         <p class="text-20">Break</p>
                                     </div>
                                 </div>
-
+    
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -99,13 +99,13 @@
                         </section>
     
                     </div>
-
+    
                     <div class="text-center md:text-left">
-                    <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 2</div>
-                    <div class="weight-300 text-14 md:text-20 mt-10">3rd June</div>
+                        <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 2</div>
+                        <div class="weight-300 text-14 md:text-20 mt-10">3rd June</div>
                     </div>
                     <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
-                    <div class="vstack" >
+                    <div class="vstack">
                         <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
                             <div class="container w-full">
                                 <div class="timeline-item">
@@ -117,7 +117,7 @@
                                     </div>
                                 </div>
     
-
+    
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -153,7 +153,7 @@
                                         <p class="text-20">Tea Break</p>
                                     </div>
                                 </div>
-
+    
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -166,13 +166,13 @@
                         </section>
     
                     </div>
-
+    
                     <div class="text-center md:text-left">
-                    <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 3</div>
-                    <div class="weight-300 text-14 md:text-20 mt-10">4th June</div>
+                        <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 3</div>
+                        <div class="weight-300 text-14 md:text-20 mt-10">4th June</div>
                     </div>
                     <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
-                    <div class="vstack" >
+                    <div class="vstack">
                         <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
                             <div class="container w-full">
                                 <div class="timeline-item">
@@ -184,7 +184,7 @@
                                     </div>
                                 </div>
     
-
+    
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -220,7 +220,7 @@
                                         <p class="text-20">Tea Break</p>
                                     </div>
                                 </div>
-
+    
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
