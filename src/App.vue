@@ -27,4 +27,9 @@ export default {
   color: var(--text-color);
   background-color: var(--bg-color);
 }
+
+.container {
+  padding-right: 15px !important;
+  padding-left: 15px !important;
+}
 </style>

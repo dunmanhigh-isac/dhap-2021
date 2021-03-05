@@ -40,7 +40,7 @@
                     <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
                     <div class="vstack">
                         <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
-                            <div class="container w-full">
+                            <div class=" w-full">
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -107,7 +107,7 @@
                     <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
                     <div class="vstack">
                         <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
-                            <div class="container w-full">
+                            <div class=" w-full">
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
@@ -174,7 +174,7 @@
                     <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
                     <div class="vstack">
                         <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
-                            <div class="container w-full">
+                            <div class=" w-full">
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
     
