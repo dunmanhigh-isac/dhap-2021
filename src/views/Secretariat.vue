@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 mx-18 align-center">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">The Secretariat</div>
+                <div class="text-48 title md:text-64 text-center" style="font-weight: 500;">The Secretariat</div>
                 <div class="vstack space-14 "> <!-- add align-start here -->
-                    <div class="text-20 weight-300  text-justify" style="line-height: 1.2;">Stay tuned to find out the team that helms this year’s edition of DHAP!</div> <!-- add w-full here -->
+                    <div class="text-20 weight-400  text-justify" style="line-height: 1.2;">Stay tuned to find out the team that helms this year’s edition of DHAP!</div> <!-- add w-full here -->
                 </div>
             </div>
         </div>

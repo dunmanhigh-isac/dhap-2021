@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 px-18">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">Publicity</div>
+                <div class="text-48 title md:text-64 text-center" style="font-weight: 500;">Publicity</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The Publicity sub-committee seeks to generate interest about DHAP on our social media platform both locally and internally. They also keep delegates up to date with the latest news and updates about DHAP. Behind the aesthetic posts is a team of four that is hard at work editing! This year, they are also collaborating with Project Planning to bring you a special video production! Other than ensuring DHAP’s social media account is glam for the gram, their posts also make sure that delegates are well-informed and prepared!</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">The Publicity sub-committee seeks to generate interest about DHAP on our social media platform both locally and internally. They also keep delegates up to date with the latest news and updates about DHAP. Behind the aesthetic posts is a team of four that is hard at work editing! This year, they are also collaborating with Project Planning to bring you a special video production! Other than ensuring DHAP’s social media account is glam for the gram, their posts also make sure that delegates are well-informed and prepared!</div>
                 </div>
             </div>
         </div>

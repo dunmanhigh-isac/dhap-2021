@@ -3,7 +3,7 @@
         <div class="hstack w-full bg-hero-gray py-64">
             <div class="container">
                 <div class="vstack align-start space-48 mx-18">
-                    <div class="text-48 title md:text-64" style="font-weight: 300;">Schedule</div>
+                    <div class="text-48 title md:text-64" style="font-weight: 500;">Schedule</div>
                     <!-- <div class="vstack space-14 align-start">
                         <div class="w-full h-20 bg-gray-400 rounded-full"></div>
                         <div class="w-full h-20 bg-gray-400 rounded-full"></div>
@@ -12,14 +12,14 @@
             </div>
         </div>
 
-        <div class="">
+        <!-- <div class="">
         <div class="container">
             <div class="vstack mb-48 mx-18">
                 <div class="vstack my-128 mx-18 space-64">
 
                     <div class="text-48">Work in progress</div>
 
-                    <!--put stuff here-->
+                    put stuff here
 
                 </div>
             </div>
@@ -28,14 +28,18 @@
 
             <Footer />
         </div>
-    </div> <!-- remove this when timeline needs to be added -->
+    </div>  -->
     
-        <!-- <div class="">
+        <div class="">
             <div class="container">
-                <div class="vstack mb-48 mx-18">
-                    <div class="vstack mx-18 space-64 ">
-
-                        <section class="timeline w-full">
+                <div class="vstack space-48 my-48 mr-20 md:align-start">
+                    <div class="text-center md:text-left">
+                    <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 1</div>
+                    <div class="weight-300 text-14 md:text-20 mt-10">2nd June</div>
+                    </div>
+                    <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
+                    <div class="vstack" >
+                        <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
                             <div class="container w-full">
                                 <div class="timeline-item">
                                     <div class="timeline-img"></div>
@@ -95,13 +99,147 @@
                         </section>
     
                     </div>
+
+                    <div class="text-center md:text-left">
+                    <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 2</div>
+                    <div class="weight-300 text-14 md:text-20 mt-10">3rd June</div>
+                    </div>
+                    <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
+                    <div class="vstack" >
+                        <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
+                            <div class="container w-full">
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>0915 – 0930</h1>
+                                        <p class="text-20">Technical Check</p>
+                                    </div>
+                                </div>
+    
+
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>0930 - 1100</h1>
+                                        <p class="text-20">Council Session 3</p>
+                                    </div>
+                                </div>
+    
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1100 - 1200</h1>
+                                        <p class="text-20">Lunch</p>
+                                    </div>
+                                </div>
+    
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1200 - 1330</h1>
+                                        <p class="text-20">Council Session 4</p>
+                                    </div>
+                                </div>
+    
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1430 – 1500</h1>
+                                        <p class="text-20">Tea Break</p>
+                                    </div>
+                                </div>
+
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1500 - 1630</h1>
+                                        <p class="text-20">Council Session 5</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+    
+                    </div>
+
+                    <div class="text-center md:text-left">
+                    <div class="weight-500 text-36 md:text-48" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">Day 3</div>
+                    <div class="weight-300 text-14 md:text-20 mt-10">4th June</div>
+                    </div>
+                    <hr class="w-64 mt-14" style=" padding: 0 0 0 0 !important;">
+                    <div class="vstack" >
+                        <section class="timeline w-full" style="margin: 0 0 0 0 !important; padding: 0 0 0 0 !important;">
+                            <div class="container w-full">
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>0915 – 0930</h1>
+                                        <p class="text-20">Technical Check</p>
+                                    </div>
+                                </div>
+    
+
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>0930 - 1100</h1>
+                                        <p class="text-20">Council Session 6</p>
+                                    </div>
+                                </div>
+    
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1100 - 1200</h1>
+                                        <p class="text-20">Lunch</p>
+                                    </div>
+                                </div>
+    
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1200 - 1330</h1>
+                                        <p class="text-20">Council Session 7</p>
+                                    </div>
+                                </div>
+    
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1330 - 1400</h1>
+                                        <p class="text-20">Tea Break</p>
+                                    </div>
+                                </div>
+
+                                <div class="timeline-item">
+                                    <div class="timeline-img"></div>
+    
+                                    <div class="timeline-content js--fadeInLeft">
+                                        <h1>1400 - 1530</h1>
+                                        <p class="text-20">Closing Ceremony</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+    
+                    </div>
                 </div>
     
                 <hr>
     
                 <Footer />
             </div>
-        </div> -->
+        </div>
     </div>
 </template>
 
@@ -152,7 +290,8 @@ header p {
 
 .timeline-item {
     width: 100%;
-    margin-bottom: 70px;
+    /* margin-bottom: 70px; */
+    margin-bottom: 40px;
 }
 
 .timeline-item:nth-child(even) .timeline-content {

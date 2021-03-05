@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container">
             <div class="vstack align-start space-48 mx-18">
-                <div class="text-48 title md:text-64" style="font-weight: 300;">Admin Board</div>
+                <div class="text-48 title md:text-64" style="font-weight: 500;">Admin Board</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The Administrative Board is the backbone of the conference. We consist of four sub-committees, each unique and crucial in their own ways, yet stand united to ensure the smooth running of the conference, maximising your DHAP experience. The Publicity and Communications sub-committees helm the corporate relations aspect of DHAP, while the Design sub-committee oversees the aesthetics of various aspects of the conference, and the Project Planning sub-committee ensures that the programmes planned for you will become a reality.</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">The Administrative Board is the backbone of the conference. We consist of four sub-committees, each unique and crucial in their own ways, yet stand united to ensure the smooth running of the conference, maximising your DHAP experience. The Publicity and Communications sub-committees helm the corporate relations aspect of DHAP, while the Design sub-committee oversees the aesthetics of various aspects of the conference, and the Project Planning sub-committee ensures that the programmes planned for you will become a reality.</div>
                 </div>
             </div>
         </div>

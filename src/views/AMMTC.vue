@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 mx-18">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">ASEAN Ministerial Meeting on Transnational Crime</div>
+                <div class="text-48 title md:text-64 text-center" style="font-weight: 500;">ASEAN Ministerial Meeting on Transnational Crime</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">In 1997, the ASEAN Ministerial Meeting on Transnational Crime, or AMMTC for short, was set up after the endorsement of the ASEAN Declaration on Transnational Crime. In their fight against transnational crime, the AMMTC meets at least once every 2 years to address pressing issues such as drug trafficking and terrorism in Southeast Asia. The importance of AMMTC is highlighted by the proliferation of various transnational crimes as a result of the rise of globalisation. As such, delegates will be required to critically analyse and come up with solutions for the various security issues ASEAN faces.</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">In 1997, the ASEAN Ministerial Meeting on Transnational Crime, or AMMTC for short, was set up after the endorsement of the ASEAN Declaration on Transnational Crime. In their fight against transnational crime, the AMMTC meets at least once every 2 years to address pressing issues such as drug trafficking and terrorism in Southeast Asia. The importance of AMMTC is highlighted by the proliferation of various transnational crimes as a result of the rise of globalisation. As such, delegates will be required to critically analyse and come up with solutions for the various security issues ASEAN faces.</div>
                 </div>
             </div>
         </div>

@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container">
             <div class="vstack align-start space-48 mx-18">
-                <div class="text-48 title md:text-64" style="font-weight: 300;">Academics Board</div>
+                <div class="text-48 title md:text-64" style="font-weight: 500;">Academics Board</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The Academics Board oversees the various committees and topics that will be discussed during the conference. Each committee will discuss one or two topics. The five DHAP councils comprise both beginner and advanced councils. Delegates will be allocated to councils of varying difficulties to provide a conducive and guided debating environment. M-ATM, AMMTC are beginner-friendly councils:  Delegates will be provided more guidance from the chairs during council debate to ensure a meaningful experience MUN-ning. On the other hand, AIA and UNSC are advanced-level councils, where more experienced delegates can push themselves out of their comfort zones by discussing more complex issues. Finally, the HCC is pitched for highly-experienced delegates who seek fast-paced debates and engaging simulations of political gridlocks.</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">The Academics Board oversees the various committees and topics that will be discussed during the conference. Each committee will discuss one or two topics. The five DHAP councils comprise both beginner and advanced councils. Delegates will be allocated to councils of varying difficulties to provide a conducive and guided debating environment. M-ATM, AMMTC are beginner-friendly councils:  Delegates will be provided more guidance from the chairs during council debate to ensure a meaningful experience MUN-ning. On the other hand, AIA and UNSC are advanced-level councils, where more experienced delegates can push themselves out of their comfort zones by discussing more complex issues. Finally, the HCC is pitched for highly-experienced delegates who seek fast-paced debates and engaging simulations of political gridlocks.</div>
                 </div>
             </div>
         </div>

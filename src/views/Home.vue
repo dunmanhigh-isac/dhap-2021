@@ -7,7 +7,7 @@
                         <div class="top" style="font-weight: 300;">from unity, strength</div>
                     </div>
                     <div class="hstack space-16">
-                        <div class="text-64 title" style="font-weight: 300;">DHAP 2021</div>
+                        <div class="text-64 title" style="font-weight: 500;">DHAP 2021</div>
                     </div>
                     <div class="vstack md:hstack space-32 w-full">
                         <router-link to="/welcome" class="hstack w-full md:w-192 h-64 border-2 rounded-2 border-color">

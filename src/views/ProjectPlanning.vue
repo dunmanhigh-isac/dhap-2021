@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 px-18">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">Project Planning</div>
+                <div class="text-48 title md:text-64 text-center" style="font-weight: 500;">Project Planning</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The Project Planning sub-committee helms the various ceremonies throughout your DHAP 2021 journey - both the Opening and Closing Ceremony. On top of the vigorous debate council sessions, Project Planning aims to complete the other half of the authentic delegate experience by start and ending the conference on a high note! With special segments such as games and video productions to look forward to in the ceremonies, they are sure to deliver an unforgettable, fulfilling experience to delegates. They look forward to meeting delegates who are ready to debate hard and relish in the DHAP experience!</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">The Project Planning sub-committee helms the various ceremonies throughout your DHAP 2021 journey - both the Opening and Closing Ceremony. On top of the vigorous debate council sessions, Project Planning aims to complete the other half of the authentic delegate experience by start and ending the conference on a high note! With special segments such as games and video productions to look forward to in the ceremonies, they are sure to deliver an unforgettable, fulfilling experience to delegates. They look forward to meeting delegates who are ready to debate hard and relish in the DHAP experience!</div>
                 </div>
             </div>
         </div>

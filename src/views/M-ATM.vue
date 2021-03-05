@@ -3,9 +3,9 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 px-18">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 300;">Asean Tourism Ministers’ Meeting</div>
+                <div class="text-48 title md:text-64 text-center" style="font-weight: 500;">Asean Tourism Ministers’ Meeting</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-300 w-full text-justify" style="line-height: 1.2;">The ASEAN Tourism Ministers’ Meeting, otherwise known as the M-ATM, had its first meeting in 1998. Since then, the council has strived to facilitate cooperation within ASEAN’s tourism sector, market the ASEAN region as a collective tourist destination and facilitate intra-ASEAN travel. Tourism is a critical sector of ASEAN’s economy - accounting for 14.3% of ASEAN’s GDP in 2020.</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">Since its first meeting in 1998, the ASEAN Tourism Ministers’ Meeting (M-ATM) has strived to facilitate cooperation within ASEAN to market the region as a collective tourist destination while promoting intra-ASEAN travel. Yet, the unexpected onslaught of COVID-19 has decimated the ASEAN tourism industry, with tourist arrivals having fallen from 70 million in the first semester of 2019 to 24.6 million in the first quarter of 2020. Delegates will thus be challenged to tackle the effects of the pandemic head-on, while working towards the realisation of pre-pandemic goals as a united entity.</div>
                 </div>
             </div>
         </div>
@@ -16,16 +16,14 @@
             <div class="vstack mb-48 mx-18">
 
                 <div class="vstack space-36 my-48 md:mx-128">
-                    <div class="weight-500 text-36 text-center">Restoration of the Tourism Industry</div>
-                    <div class="text-20 text-justify" style="line-height: 1.2;">Tourism has undoubtedly been one of the biggest victims of Covid-19. Given the devastating loss of tourism revenue, the livelihoods of many are at great risk. Despite the seemingly gloomy circumstances, this could prove to be a valuable opportunity to strengthen ASEAN’s position as a competitive, sustainable and more integrated tourism destination.
-This begs the question - how can ASEAN minimise Covid-19 repercussions while pursuing her vision for ASEAN tourism? Moreover, how can ASEAN develop her tourism scene while ensuring no country or group gets left behind?
-Delegates will be required to answer these questions when discussing how best to restore ASEAN’s tourism industry.
+                    <div class="weight-500 text-36 text-center">The Question of Restoring The Tourism Industry</div>
+                    <div class="text-20 text-justify" style="line-height: 1.2;">ASEAN - home to some of the most tourism-reliant nations in the world - is reeling from the decimating impact of COVID-19. However, despite the seemingly gloomy circumstances, the pandemic could prove to be a valuable opportunity to strengthen ASEAN’s position as a competitive, sustainable and more integrated tourism destination. As such, delegates will convene to come up with innovative solutions that not only the current decline in tourism, but also address previous M-ATM goals of improving infrastructure and environmental sustainability with regards to the tourism sector.
 </div>
                 </div>
 
                 <div class="vstack space-36 my-48 md:mx-128">
-                    <div class="weight-500 text-36 text-center">Regional Co-operation on Implementing Cultural Heritage Tourism</div>
-                    <div class="text-20 text-justify" style="line-height: 1.2;">According to the National Trust for Historic Preservation in the United States, cultural heritage tourism is defined as the “people travelling to experience the places, artifacts and activities which represent the stories and people of the past”. There are several issues facing this category of tourism. A notable one is funding, which results in a lack of infrastructure, especially in developing countries within ASEAN. An example is less developed transport infrastructure which may discourage potential tourists from coming to the country. Another issue is the enhancement of the marketing of ASEAN as a single tourist destination to boost ASEAN’s competitiveness in the tourism sphere. Delegates will be tasked to come up with solutions that best address these issues.
+                    <div class="weight-500 text-36 text-center">The Difficulty in Regional Cooperation on Implementing Cultural Heritage Tourism</div>
+                    <div class="text-20 text-justify" style="line-height: 1.2;">Culture, Culture, Culture! ASEAN Tourism prides itself on celebrating its diverse cultures and heritage in all its lands. Yet, a lack of well-developed infrastructure in some of these less developed areas prove to make it difficult for tourists to gain access to these quaint spaces. Just as importantly,  how can ASEAN better project itself as a single tourist destination that showcases the rich heritage ASEAN possess? Delegates of M-ATM will need to address these various issues and be tasked to come up with innovative and sustainable ideas to overcome these challenges.
 </div>
                 </div>
 

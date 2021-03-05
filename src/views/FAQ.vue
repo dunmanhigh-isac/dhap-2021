@@ -28,7 +28,7 @@
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2 style="font-weight: 900;">Who can participate in Dunman High Model ASEAN Plus Summit (DHAP)?</h2>
-                            <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from 14 to 18 years old. Applicants outside of this age group are still encouraged to apply, and will be processed on a case-by-case basis. Registration will be
+                            <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from Secondary 3 to Junior College 2. Applicants outside of this age group are still encouraged to apply, and will be processed on a case-by-case basis. Registration will be
                                 processed on a first come, first served basis and the organisers reserve the right to turn down registrations in the event of oversubscription.
                             </p>
                         </li>
