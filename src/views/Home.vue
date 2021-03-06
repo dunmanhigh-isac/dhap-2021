@@ -4,7 +4,7 @@
             <div class="vstack w-full glass-card h-640" style="z-index: 1;">
                 <div id="hero-text" class="vstack space-28 text-stuff mx-28">
                     <div class="vstack space-16">
-                        <div class="top" style="font-weight: 300;">from unity, strength</div>
+                        <div class="top text-24" style="font-weight: 400;">From Unity, Strength</div>
                     </div>
                     <div class="hstack space-16">
                         <div class="text-64 title" style="font-weight: 500;">DHAP 2021</div>

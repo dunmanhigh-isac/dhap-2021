@@ -291,7 +291,7 @@ header p {
 .timeline-item {
     width: 100%;
     /* margin-bottom: 70px; */
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .timeline-item:nth-child(even) .timeline-content {
