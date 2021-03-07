@@ -25,33 +25,24 @@
 
                 <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
 
-                    <!-- <router-link to="/matm" class="asean-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                    <router-link to="/matm" class="asean-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <div class="weight-500 text-36 color-white px-28 text-center">Asean Tourism Ministers’ Meeting</div>
-                    </router-link> -->
-
-                    <router-link to="/matm" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>Work in progress</div>
-                        <!--image-->
                     </router-link>
 
-                    <router-link to="/ammtc" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>Work in progress</div>
-                        <!--image-->
+                    <router-link to="/ammtc" class="ammtc-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div class="weight-500 text-36 color-white px-28 text-center">ASEAN Ministerial Meeting on Transnational Crime</div>
                     </router-link>
 
-                    <router-link to="/aia" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>Work in progress</div>
-                        <!--image-->
+                    <router-link to="/aia" class="aia-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div class="weight-500 text-36 color-white px-28 text-center">ASEAN Investment Area Council</div>
                     </router-link>
 
-                    <router-link to="/unsc" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>Work in progress</div>
-                        <!--image-->
+                    <router-link to="/unsc" class="unsc-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div class="weight-500 text-36 color-white px-28 text-center">Historical United Nations Security Council</div>
                     </router-link>
 
-                    <router-link to="/hcc" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>Work in progress</div>
-                        <!--image-->
+                    <router-link to="/hcc" class="hcc-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div class="weight-500 text-36 color-white px-28 text-center">Historical Crisis Council</div>
                     </router-link>
                 </div>
             </div>
@@ -66,9 +57,37 @@
 
 <style scoped>
     .asean-img {
-        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3) ), url('../static/asean.webp');
-        height: 320px%;
-        width: 100%;
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3) ), url('../static/AIA.webp');
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: center;
+    }
+
+    .ammtc-img {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3) ), url('../static/AMMTC.webp');
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: center;
+    }
+
+    .aia-img {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3) ), url('../static/AIA.webp');
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: center;
+    }
+
+    .unsc-img {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3) ), url('../static/HUNSC.webp');
+        background-repeat: no-repeat;
+        background-size: auto;
+        background-position: center;
+    }
+
+    .hcc-img {
+        background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3) ), url('../static/HCC.webp');
+        background-repeat: no-repeat;
+        background-size: auto;
         background-position: center;
     }
 
