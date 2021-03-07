@@ -126,7 +126,7 @@
     border-radius: 32px;
     transform: scale(1);
     transform-origin: 50% 50%;
-    transition: transform 0.25s ease-in;
+    transition: transform 0.5s ease-in;
 }
 
 .card-hover:hover:before {
