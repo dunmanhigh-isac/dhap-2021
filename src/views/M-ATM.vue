@@ -17,7 +17,7 @@
 
                 <div class="vstack space-36 my-48 md:mx-128">
                     <div class="weight-500 text-36 text-center">The Question of Restoring The Tourism Industry</div>
-                    <div class="text-20 text-justify" style="line-height: 1.2;">ASEAN - home to some of the most tourism-reliant nations in the world - is reeling from the decimating impact of COVID-19. However, despite the seemingly gloomy circumstances, the pandemic could prove to be a valuable opportunity to strengthen ASEAN’s position as a competitive, sustainable and more integrated tourism destination. As such, delegates will convene to come up with innovative solutions that not only the current decline in tourism, but also address previous M-ATM goals of improving infrastructure and environmental sustainability with regards to the tourism sector.
+                    <div class="text-20 text-justify" style="line-height: 1.2;">ASEAN - home to some of the most tourism-reliant nations in the world - is reeling from the decimating impact of COVID-19. However, despite the seemingly gloomy circumstances, the pandemic could prove to be a valuable opportunity to strengthen ASEAN’s position as a competitive, sustainable and more integrated tourism destination. As such, delegates will convene to come up with innovative solutions that not only the current decline in tourism, but also address previous M-ATM goals such as ensuring environmental sustainability with regards to the tourism sector.
 </div>
                 </div>
 

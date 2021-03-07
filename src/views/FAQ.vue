@@ -28,7 +28,7 @@
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2 style="font-weight: 900;">Who can participate in Dunman High Model ASEAN Plus Summit (DHAP)?</h2>
-                            <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from Secondary 3 to Junior College 2. Applicants outside of this age group are still encouraged to apply, and will be processed on a case-by-case basis. Registration will be
+                            <p>Dunman High Model ASEAN Plus Summit (DHAP) is targeted at students from Secondary 3 to Junior College 2. Applicants who fall outside of this range are still encouraged to apply, and will be processed on a case-by-case basis. Registration will be
                                 processed on a first come, first served basis and the organisers reserve the right to turn down registrations in the event of oversubscription.
                             </p>
                         </li>
@@ -51,7 +51,7 @@
                             <input type="checkbox" checked style="-webkit-tap-highlight-color: rgba(0,0,0,0);">
                             <i></i>
                             <h2 style="font-weight: 900;">How can I register for DHAP 2021?</h2>
-                            <p>Registration can be made as a school delegation or an independent delegate. Registration begins on DD February 2021 and ends on DD March 2021. To register, please fill up the form which will be found under the ‘Registration’ tab
+                            <p>Registration can be made as a school delegation or an independent delegate. Registration begins on DD February 2021 and ends on 31st March 2021. To register, please fill up the form which will be found under the ‘Registration’ tab
                                 of our website and email to aseanplus.communications@dhs.sg.
                             </p>
                         </li>

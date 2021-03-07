@@ -225,7 +225,7 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>1400 - 1530</h1>
+                                        <h1>1400 - 1500</h1>
                                         <p class="text-20">Closing Ceremony</p>
                                     </div>
                                 </div>
