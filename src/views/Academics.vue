@@ -20,7 +20,7 @@
     
                     <div class="align-self-stretch grid grid-cols-1 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
     
-                        <router-link to="/matm" class="card-hover asean-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow" href="#">
+                        <router-link to="/matm" class="card-hover matm-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow" href="#">
                             <div class="weight-500 text-36 color-white px-28 text-center">Asean Tourism Ministers’ Meeting</div>
                         </router-link>
     
@@ -51,8 +51,8 @@
 </template>
 
 <style scoped>
-.asean-img {
-    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../static/AIA.webp');
+.matm-img {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../static/M-ATM.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
