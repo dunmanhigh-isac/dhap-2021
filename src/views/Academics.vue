@@ -23,7 +23,7 @@
                     </div>
                 </div> -->
 
-                <div class="align-self-stretch grid grid-cols-1 mx-18 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
+                <div class="align-self-stretch grid grid-cols-1 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
 
                     <router-link to="/matm" class="asean-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                         <div class="weight-500 text-36 color-white px-28 text-center">Asean Tourism Ministers’ Meeting</div>
