@@ -5,7 +5,7 @@
             <div class="vstack space-48 px-18">
                 <div class="text-40 title md:text-64 text-center" style="font-weight: 500;">Asean Tourism Ministers’ Meeting</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">Culture, Culture, Culture! ASEAN Tourism prides itself on celebrating its diverse cultures and heritage in all its lands. How can ASEAN better project itself as a single tourist destination that showcases the rich heritage ASEAN possess? Delegates of M-ATM will need to address these various issues and be tasked to come up with innovative and sustainable ideas to overcome these challenges.</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">Since its first meeting in 1998, the ASEAN Tourism Ministers’ Meeting (M-ATM) has strived to facilitate cooperation within ASEAN to market the region as a collective tourist destination while promoting intra-ASEAN travel. Yet, the unexpected onslaught of COVID-19 has decimated the ASEAN tourism industry, with tourist arrivals having fallen from 70 million in the first semester of 2019 to 24.6 million in the first quarter of 2020. Delegates will thus be challenged to tackle the effects of the pandemic head-on, while working towards the realisation of pre-pandemic goals as a united entity.</div>
                 </div>
             </div>
         </div>
@@ -23,7 +23,7 @@
 
                 <div class="vstack space-36 my-48 md:mx-128">
                     <div class="weight-500 text-36 text-center">The Difficulty in Regional Cooperation on Implementing Cultural Heritage Tourism</div>
-                    <div class="text-20 text-justify" style="line-height: 1.2;">Culture, Culture, Culture! ASEAN Tourism prides itself on celebrating its diverse cultures and heritage in all its lands. Yet, a lack of well-developed infrastructure in some of these less developed areas prove to make it difficult for tourists to gain access to these quaint spaces. Just as importantly,  how can ASEAN better project itself as a single tourist destination that showcases the rich heritage ASEAN possess? Delegates of M-ATM will need to address these various issues and be tasked to come up with innovative and sustainable ideas to overcome these challenges.
+                    <div class="text-20 text-justify" style="line-height: 1.2;">Culture, Culture, Culture! ASEAN Tourism prides itself on celebrating its diverse cultures and heritage in all its lands. How can ASEAN better project itself as a single tourist destination that showcases the rich heritage ASEAN possess? Delegates of M-ATM will need to address these various issues and be tasked to come up with innovative and sustainable ideas to overcome these challenges.
 </div>
                 </div>
 

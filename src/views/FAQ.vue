@@ -44,7 +44,7 @@
                             <i></i>
                             <h2 style="font-weight: 900;">How many delegations can each school register?</h2>
                             <p>Each school can register one delegation. Each delegation can send a minimum of 5 delegates and a maximum of 8 delegates. However, should your delegation be interested but do not meet the requirement, please contact us at the above
-                                email, please contact us at the above email.
+                                email.
                             </p>
                         </li>
                         <li>
