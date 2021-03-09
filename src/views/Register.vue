@@ -27,7 +27,7 @@
                                 Registration for local delegates is now open and will close on 31st March 23:59 (GMT +08:00). Applicant's level of schooling should be between Secondary 3 and Junior College 2, or the equivalent, at the time of sign up. There is a registration fee of $8 per delegate. The fee covers a merchandise package, which will be delivered to delegates’ schools.
                             </div>
                             <div class="spacer"></div>
-                            <a href="https://forms.gle/5rNmN8oYJcHPEfbz6" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
+                            <a href="https://docs.google.com/forms/d/1vb8MF33tXkDrgZM8e6oHwyYM5kf0lIKwZRxIK8jrBJs" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
                                 Register
                             </a>
                         </div>

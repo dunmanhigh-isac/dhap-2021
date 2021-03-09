@@ -21,6 +21,7 @@ import Publicity from '../views/Publicity'
 import Communications from '../views/Communications'
 import ProjectPlanning from '../views/ProjectPlanning'
 import Design from '../views/Design'
+import OST from '../views/OST'
 
 Vue.use(VueRouter)
 
@@ -128,6 +129,11 @@ const routes = [{
   path: '/design',
   name: 'design',
   component: Design
+},
+{
+  path: '/ost',
+  name: 'ost',
+  component: OST
 }
 ]
 

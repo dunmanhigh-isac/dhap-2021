@@ -98,6 +98,12 @@
                                     <div class="nested">Design</div>
                                 </div>
                             </router-link>
+                            <!-- Nested drop down item -->
+                            <router-link to="/ost" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">OST</div>
+                                </div>
+                            </router-link>
                         </div>
                     </div>
                 </div>
@@ -229,6 +235,12 @@
                                         <div class="group zstack">
                                             <router-link to="/design" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
                                                 <div class="xs-nested">Design</div>
+                                            </router-link>
+                                        </div>
+                                        <!-- Nested drop down item -->
+                                        <div class="group zstack">
+                                            <router-link to="/ost" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">OST</div>
                                             </router-link>
                                         </div>
                                     </div>

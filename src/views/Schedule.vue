@@ -150,7 +150,7 @@
     
                                     <div class="timeline-content js--fadeInLeft">
                                         <h1>1430 – 1500</h1>
-                                        <p class="text-20">Tea Break</p>
+                                        <p class="text-20">Break</p>
                                     </div>
                                 </div>
     
@@ -217,7 +217,7 @@
     
                                     <div class="timeline-content js--fadeInLeft">
                                         <h1>1330 - 1400</h1>
-                                        <p class="text-20">Tea Break</p>
+                                        <p class="text-20">Break</p>
                                     </div>
                                 </div>
     
