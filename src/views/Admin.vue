@@ -25,22 +25,27 @@
 
                 <div class="align-self-stretch grid grid-cols-1 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
                     <router-link to="/publicity" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>Work in progress</div>
+                        <div>Coming Soon</div>
                         <!--image-->
                     </router-link>
 
                     <router-link to="/communication" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>work in progress</div>
+                        <div>Coming Soon</div>
                         <!--image-->
                     </router-link>
 
                     <router-link to="/projectplanning" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>work in progress</div>
+                        <div>Coming Soon</div>
                         <!--image-->
                     </router-link>
 
                     <router-link to="/design" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                        <div>work in progress</div>
+                        <div>Coming Soon</div>
+                        <!--image-->
+                    </router-link>
+
+                    <router-link to="/ost" class="glass-card card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <div>Coming Soon</div>
                         <!--image-->
                     </router-link>
                 </div>
