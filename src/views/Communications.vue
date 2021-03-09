@@ -3,9 +3,11 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 px-18">
-                <div class="text-48 title md:text-64 text-center" style="font-weight: 500;">Communications</div>
+                <div class="text-40 title md:text-64 text-center" style="font-weight: 500;">Communciations</div>
                 <div class="vstack space-14 align-start">
-                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">The Communications sub-committee is delegates' first and last points of contact - from being in charge of the first registration emails and subsequent follow-up emails to general communication with delegates, they can be said to be with the delegates every step of the way. Besides that, Communications is also the team behind logistics, delegates’ invitational package and programme booklet. Ultimately, they aim to ensure your DHAP 2021 experience is smooth and seamless from start to end!</div>
+                    <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">The Communications sub-committee is delegates' first and last points of contact - from being in charge of the first registration emails and subsequent follow-up emails to general communication with delegates, they can be said to be with the delegates every step of the way. Besides that, Communications is also the team behind logistics, delegates’ invitational package and programme booklet. Ultimately, they aim to ensure your DHAP 2021 experience is smooth and seamless from start to end!
+
+</div>
                 </div>
             </div>
         </div>
@@ -17,7 +19,7 @@
 
                 <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
 
-                    <div class="vstack lg:hstack w-full mx-18">
+                    <div v-scroll-reveal class="vstack lg:hstack w-full mx-18">
                         <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                         <div class="hidden lg:unhidden spacer"></div>
                         <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
@@ -29,7 +31,7 @@
                         </div>
                     </div>
 
-                    <div class="vstack lg:hstack w-full mx-18 scroll-card">
+                    <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
 
                         <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
 
@@ -44,7 +46,7 @@
                         <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                     </div>
 
-                    <div class="vstack lg:hstack w-full mx-18 scroll-card">
+                    <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
                         <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
                         <div class="hidden lg:unhidden spacer"></div>
                         <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">

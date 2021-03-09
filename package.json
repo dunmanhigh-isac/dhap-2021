@@ -17,6 +17,7 @@
     "vue-instagram": "^3.0.0",
     "vue-mapbox": "^0.4.1",
     "vue-router": "^3.2.0",
+    "vue-scroll-reveal": "^1.0.11",
     "vue-svg-draw": "^1.0.7",
     "vue2-google-maps": "^0.10.7",
     "x5-gmaps": "^0.3.31"
