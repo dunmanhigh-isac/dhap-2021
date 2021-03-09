@@ -21,9 +21,9 @@
                 </div>
             </div>
             <object class="svg-container" style="z-index: 0;">
-                <img class="light-svg" src="../static/DoveAnimated.svg"/>
-                <img class="dark-svg" src="../static/DoveAnimatedDark.svg"/>
-            </object>
+                    <img class="light-svg" src="../static/DoveAnimated.svg"/>
+                    <img class="dark-svg" src="../static/DoveAnimatedDark.svg"/>
+                </object>
         </div>
         <div class="spacer"></div>
         <!--hr-->
@@ -35,9 +35,9 @@
 import Footer from '../components/Footer'
 // import $ from 'jquery'
 export default {
-  components: {
-    Footer
-  }
+    components: {
+        Footer
+    }
 }
 </script>
 
@@ -56,10 +56,31 @@ export default {
     border-color: var(--text-color)
 }
 
-.glass-card {
+/* .glass-card {
     background: var(--glass-card-hero);
     backdrop-filter: blur( 3.0px );
     -webkit-backdrop-filter: blur( 3.0px );
+} */
+
+/* slightly transparent fallback */
+@supports not ((-webkit-backdrop-filter: blur(2.5px)) or (backdrop-filter: blur(2.5px))) {
+    :root[color-mode="light"] .glass-card {
+        background-color: rgba(245, 245, 245, 0.85);
+    }
+
+    :root[color-mode="dark"] .glass-card {
+        background-color: rgba( 62, 76, 89, 0.85);
+    }
+}
+
+/* if backdrop support: very transparent and blurred */
+
+@supports ((-webkit-backdrop-filter: blur(2.5px)) or (backdrop-filter: blur(2.5px))) {
+    .glass-card {
+        background: var(--glass-card-hero);
+        -webkit-backdrop-filter: blur(2.5px);
+        backdrop-filter: blur(2.5px);
+    }
 }
 
 .svg-container {
@@ -74,14 +95,14 @@ export default {
 }
 
 @keyframes fade-in-move-down {
-  0% {
-    opacity: 0;
-    transform: translateY(3rem);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
+    0% {
+        opacity: 0;
+        transform: translateY(3rem);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 @media only screen and (min-height: 1000px) {
