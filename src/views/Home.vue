@@ -107,7 +107,7 @@ export default {
 
 @media only screen and (min-height: 1000px) {
     .height-change {
-        height: 1235px;
+        height: 90vh;
     }
 }
 
