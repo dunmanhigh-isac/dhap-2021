@@ -16,7 +16,6 @@ import About from '../views/About.vue'
 import Secretariat from '../views/Secretariat.vue'
 import Welcome from '../views/Welcome.vue'
 import Register from '../views/Register.vue'
-import Writeup from '../views/WriteupsPlaceholder'
 import Publicity from '../views/Publicity'
 import Communications from '../views/Communications'
 import ProjectPlanning from '../views/ProjectPlanning'
@@ -104,11 +103,6 @@ const routes = [{
   path: '/unsc',
   name: 'UNSC',
   component: UNSC
-},
-{
-  path: '/writeups',
-  name: 'writeup',
-  component: Writeup
 },
 {
   path: '/publicity',
