@@ -3,7 +3,7 @@
     <div class="hstack w-full bg-hero-gray py-64">
         <div class="container md:px-36">
             <div class="vstack space-48 px-18">
-                <div class="text-40 title md:text-64 text-center" style="font-weight: 500;">Asean Tourism Ministers’ Meeting</div>
+                <div class="text-40 title md:text-64 text-center" style="font-weight: 500;">ASEAN Tourism Ministers’ Meeting</div>
                 <div class="vstack space-14 align-start">
                     <div class="text-20 weight-400 w-full text-justify" style="line-height: 1.2;">Since its first meeting in 1998, the ASEAN Tourism Ministers’ Meeting (M-ATM) has strived to facilitate cooperation within ASEAN to market the region as a collective tourist destination while promoting intra-ASEAN travel. Yet, the unexpected onslaught of COVID-19 has decimated the ASEAN tourism industry, with tourist arrivals having fallen from 70 million in the first semester of 2019 to 24.6 million in the first quarter of 2020. Delegates will thus be challenged to tackle the effects of the pandemic head-on, while working towards the realisation of pre-pandemic goals as a united entity.</div>
                 </div>
@@ -27,7 +27,7 @@
 </div>
                 </div>
 
-                <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
+                <!-- <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
 
                     <div v-scroll-reveal class="vstack lg:hstack w-full mx-18">
                         <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
@@ -68,7 +68,16 @@
                         </div>
                     </div>
 
-                </div>
+                </div> -->
+            
+                <div class="vstack my-128 mx-18 space-64">
+                        <!-- change to mt-128 only -->
+    
+                        <div class="text-48">Coming Soon</div>
+    
+                        <!--put stuff here-->
+    
+                    </div>
             </div>
 
             <hr>

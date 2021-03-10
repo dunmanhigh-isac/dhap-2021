@@ -2,7 +2,8 @@
     <nav class="hstack sticky z-10 t-0 lg:p-32 h-80 w-full my-14"> <!-- shadow shadow-md -->
         <!--div class="w-48 h-48 mx-28 border border-2 border-gray-300 rounded-full"></div-->
         <router-link to="/">
-            <img src="../static/DHAP2021_Logo.svg" class="w-48 h-48 mx-28">
+            <img src="../static/DHAP2021_Logo_Light.svg" class="w-48 h-48 mx-28 dark--hidden">
+            <img src="../static/DHAP2021_Logo_Dark.svg" class="w-48 h-48 mx-28 light--hidden">
         </router-link>
         <div class="spacer"></div>
         <div class="hidden lg:unhidden">
