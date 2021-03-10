@@ -26,23 +26,23 @@
                     </div> -->
     
                     <div class="align-self-stretch grid grid-cols-1 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
-                        <router-link to="/publicity" class="card-hover publicity-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow" href="#">
+                        <router-link v-scroll-reveal to="/publicity" class="card-hover publicity-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow" href="#">
                             <div class="weight-500 text-36 white px-28 text-center">Publicity</div>
                         </router-link>
     
-                        <router-link to="/communications" class="card-hover communications-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <router-link v-scroll-reveal to="/communications" class="card-hover communications-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                             <div class="weight-500 text-36 white px-28 text-center">Communications</div>
                         </router-link>
     
-                        <router-link to="/projectplanning" class="card-hover projectplanning-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <router-link v-scroll-reveal to="/projectplanning" class="card-hover projectplanning-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                             <div class="weight-500 text-36 white px-28 text-center">Project Planning</div>
                         </router-link>
     
-                        <router-link to="/design" class="card-hover design-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <router-link v-scroll-reveal to="/design" class="card-hover design-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                             <div class="weight-500 text-36 white px-28 text-center">Design</div>
                         </router-link>
     
-                        <router-link to="/ost" class="card-hover ost-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <router-link v-scroll-reveal to="/ost" class="card-hover ost-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                             <div class="weight-500 text-36 white px-28 text-center">OST</div>
                         </router-link>
                     </div>
