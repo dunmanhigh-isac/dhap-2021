@@ -18,9 +18,6 @@
                     members. We hope that by participating in DHAP 2021, delegates will get the valuable opportunity to verify this for themselves.
                 </div>
                 <div class="text-20 weight-400 text-justify" style="line-height: 1.2;">
-                    Now into our 14th year running, we are delighted to introduce our Guest-of-Honour...
-                </div>
-                <div class="text-20 weight-400 text-justify" style="line-height: 1.2;">
                     In light of Covid-19 restrictions, we have devised the very first online rendition of DHAP to continue providing delegates with a platform to delve into rigorous academic discussions on both regional and global issues. From 2 June (Wednesday) to 4 June
                     2021 (Friday), we are expecting to host approximately 100 delegates aged 14 to 18 from both local and international institutions in our first ever online conference. Through DHAP, we hope that delegates can go beyond simply learning about
                     global matters, and cultivate a deeper appreciation for intergovernmental organisation. I sincerely hope that all delegates will gain both useful skills and strong friendships through the three-day conference that will empower them to

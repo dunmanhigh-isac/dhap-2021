@@ -11,7 +11,7 @@
                 <div class="spacer"></div>
                 <div class="zstack group">
                     <router-link to="/about" class="group mb-5"><i class="fas fa-angle-down"></i> About</router-link>
-                    <div class="hidden group-hover:unhidden bottom-0 transform translate-y-100">
+                    <div class="hidden group-hover:unhidden bottom-0 transform translate-y-100 w-160">
                         <div class="vstack align-start w-full py-16 card-bg rounded-12 shadow shadow-px shadow-lg">
                             <!-- Nested drop down item -->
                             <router-link to="/welcome" class="group zstack">
@@ -29,6 +29,12 @@
                             <router-link to="/secretariat" class="group zstack">
                                 <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
                                     <div class="nested">The Secretariat</div>
+                                </div>
+                            </router-link>
+                            <!-- Nested drop down item -->
+                            <router-link to="/goh" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Guest-of-Honour</div>
                                 </div>
                             </router-link>
                         </div>
@@ -158,6 +164,12 @@
                                         <div class="group zstack" @click="dimiss">
                                             <router-link to="/secretariat" class="w-full vstack align-start space-8 p-16 bg-my-gray-hover">
                                                 <div class="xs-nested">The Secretariat</div>
+                                            </router-link>
+                                        </div>
+                                        <!-- Nested drop down item -->
+                                        <div class="group zstack" @click="dimiss">
+                                            <router-link to="/goh" class="w-full vstack align-start space-8 p-16 bg-my-gray-hover">
+                                                <div class="xs-nested">Guest-of-Honour</div>
                                             </router-link>
                                         </div>
                                     </div>
