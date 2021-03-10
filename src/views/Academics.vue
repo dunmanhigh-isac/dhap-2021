@@ -21,23 +21,23 @@
                     <div class="align-self-stretch grid grid-cols-1 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
     
                         <router-link to="/matm" class="card-hover matm-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow" href="#">
-                            <div class="weight-500 text-36 color-white px-28 text-center">ASEAN Tourism Ministers’ Meeting</div>
+                            <div class="weight-500 text-36 white px-28 text-center">ASEAN Tourism Ministers’ Meeting</div>
                         </router-link>
     
                         <router-link to="/ammtc" class="card-hover ammtc-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">ASEAN Ministerial Meeting on Transnational Crime</div>
+                            <div class="weight-500 text-36 white px-28 text-center">ASEAN Ministerial Meeting on Transnational Crime</div>
                         </router-link>
     
                         <router-link to="/aia" class="card-hover aia-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">ASEAN Investment Area Council</div>
+                            <div class="weight-500 text-36 white px-28 text-center">ASEAN Investment Area Council</div>
                         </router-link>
     
                         <router-link to="/unsc" class="card-hover unsc-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">Historical United Nations Security Council</div>
+                            <div class="weight-500 text-36 white px-28 text-center">Historical United Nations Security Council</div>
                         </router-link>
     
                         <router-link to="/hcc" class="card-hover hcc-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">Historical Crisis Council</div>
+                            <div class="weight-500 text-36 white px-28 text-center">Historical Crisis Council</div>
                         </router-link>
                     </div>
                 </div>
@@ -51,6 +51,10 @@
 </template>
 
 <style scoped>
+.white {
+    color: white !important;
+}
+
 .matm-img {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../static/M-ATM.webp');
     background-repeat: no-repeat;

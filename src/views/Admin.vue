@@ -27,23 +27,23 @@
     
                     <div class="align-self-stretch grid grid-cols-1 my-48 gap-18 sm:p-8 lg:grid-cols-2 my-18">
                         <router-link to="/publicity" class="card-hover publicity-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow" href="#">
-                            <div class="weight-500 text-36 color-white px-28 text-center">Publicity</div>
+                            <div class="weight-500 text-36 white px-28 text-center">Publicity</div>
                         </router-link>
     
                         <router-link to="/communications" class="card-hover communications-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">Communications</div>
+                            <div class="weight-500 text-36 white px-28 text-center">Communications</div>
                         </router-link>
     
                         <router-link to="/projectplanning" class="card-hover projectplanning-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">Project Planning</div>
+                            <div class="weight-500 text-36 white px-28 text-center">Project Planning</div>
                         </router-link>
     
                         <router-link to="/design" class="card-hover design-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">Design</div>
+                            <div class="weight-500 text-36 white px-28 text-center">Design</div>
                         </router-link>
     
                         <router-link to="/ost" class="card-hover ost-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
-                            <div class="weight-500 text-36 color-white px-28 text-center">OST</div>
+                            <div class="weight-500 text-36 white px-28 text-center">OST</div>
                         </router-link>
                     </div>
                 </div>
@@ -57,6 +57,10 @@
 </template>
 
 <style scoped>
+.white {
+    color: white !important;
+}
+
 .publicity-img {
     background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url('../static/publicity.webp');
     background-repeat: no-repeat;
