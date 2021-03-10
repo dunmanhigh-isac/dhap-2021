@@ -131,7 +131,7 @@ const routes = [{
   component: OST
 },
 {
-  path: '/goh',
+  path: '/guest-of-honour',
   name: 'goh',
   component: GOH
 }

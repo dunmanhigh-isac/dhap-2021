@@ -32,7 +32,7 @@
                                 </div>
                             </router-link>
                             <!-- Nested drop down item -->
-                            <router-link to="/goh" class="group zstack">
+                            <router-link to="/guest-of-honour" class="group zstack">
                                 <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
                                     <div class="nested">Guest-of-Honour</div>
                                 </div>
@@ -168,7 +168,7 @@
                                         </div>
                                         <!-- Nested drop down item -->
                                         <div class="group zstack" @click="dimiss">
-                                            <router-link to="/goh" class="w-full vstack align-start space-8 p-16 bg-my-gray-hover">
+                                            <router-link to="/guest-of-honour" class="w-full vstack align-start space-8 p-16 bg-my-gray-hover">
                                                 <div class="xs-nested">Guest-of-Honour</div>
                                             </router-link>
                                         </div>
