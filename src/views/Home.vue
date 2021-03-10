@@ -120,8 +120,8 @@ export default {
 
 @media only screen and (max-width: 600px) {
     .svg-container {
-        width: 320px;
-        height: 320px;
+        width: 75vw;
+        height: 75vw;
     }
 }
 </style>
