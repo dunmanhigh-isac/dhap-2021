@@ -30,7 +30,7 @@
                             <div class="weight-500 text-36 color-white px-28 text-center">Publicity</div>
                         </router-link>
     
-                        <router-link to="/communication" class="card-hover communications-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
+                        <router-link to="/communications" class="card-hover communications-img card vstack w-full h-320 card-bg rounded-3 shadow shadow-md card-shadow">
                             <div class="weight-500 text-36 color-white px-28 text-center">Communications</div>
                         </router-link>
     
