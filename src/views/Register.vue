@@ -24,7 +24,7 @@
                                 DHS Delegates
                             </div>
                             <div style="line-height: 1.4;">
-                                Registration for local delegates is now open and will close on 31st March 23:59 (GMT +08:00). Applicant's level of schooling should be between Year 3 and Year 6, at the time of sign up. DHAP will be free of charge for delegates from DHS. A merchandise package will be included.
+                                Registration for local delegates is now open and will close on 31st March 23:59 (GMT +08:00). Applicant's level of schooling should be between Year 3 and Year 6, at the time of sign up.
                             </div>
                             <div class="spacer"></div>
                             <a href="https://forms.gle/KPXTV2hHDqMUNDhG7" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
@@ -37,7 +37,7 @@
                                 Local Delegates
                             </div>
                             <div style="line-height: 1.4;">
-                                Registration for local delegates is now open and will close on 31st March 23:59 (GMT +08:00). Applicant's level of schooling should be between Secondary 3 and Junior College 2, or the equivalent, at the time of sign up. There is a registration fee of $8 per delegate. The fee covers a merchandise package, which will be delivered to delegates’ schools.
+                                Registration for local delegates is now open and will close on 31st March 23:59 (GMT +08:00). Applicant's level of schooling should be between Secondary 3 and Junior College 2, or the equivalent, at the time of sign up.
                             </div>
                             <div class="spacer"></div>
                             <a href="https://docs.google.com/forms/d/1vb8MF33tXkDrgZM8e6oHwyYM5kf0lIKwZRxIK8jrBJs" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
@@ -50,7 +50,7 @@
                                 International Delegates
                             </div>
                             <div style="line-height: 1.4;">
-                                Registration for international delegates is now open and will close on 31st March 23:59 (GMT +08:00). Delegates should be between the age of 14 and 18. DHAP will be free of charge for international delegates.
+                                Registration for international delegates is now open and will close on 31st March 23:59 (GMT +08:00). Delegates should be between the age of 14 and 18.
                             </div>
                             <div class="spacer"></div>
                             <a href="https://forms.gle/nK42QiyNAbQSSVgC8" class="vstack px-36 py-12 shadow shadow-2xl rounded-8 bg-color button-hover button-click">
