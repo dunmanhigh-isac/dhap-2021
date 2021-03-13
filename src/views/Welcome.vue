@@ -26,10 +26,10 @@
                 <div class="text-20 weight-400 text-justify" style="line-height: 1.2;">
                     With that, I wish every delegate an enriching experience at DHAP 2021!
                 </div>
-                <div class="text-20 weight-400 text-justify" style="line-height: 1.2;">
+                <!-- <div class="text-20 weight-400 text-justify" style="line-height: 1.2;">
                     For more information on how to register for DHAP, please visit our webpage at <a href="https://dhaseanplus.com" class="underline">https://dhaseanplus.com</a>. Should you have any queries, do feel free to contact the DHAP Organising Committee
                     at aseanplus.communications@dhs.sg. We look forward to welcoming your school at DHAP 2021.
-                </div>
+                </div> -->
                 <div class="text-20 weight-400 text-justify" style="line-height: 1.2;">
                     Yours sincerely,
                     <span>
