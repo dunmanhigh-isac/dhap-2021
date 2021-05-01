@@ -127,7 +127,7 @@ export default {
         setPassword(e) {
             e.preventDefault()
             this.password = this.password_input
-            if (this.password == "password") {
+            if (this.password == "iamgoodatcoding") {
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
