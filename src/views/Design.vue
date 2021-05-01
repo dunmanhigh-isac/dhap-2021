@@ -18,7 +18,7 @@
             <div class="container">
                 <div class="vstack mb-48 mx-18">
     
-                    <!-- <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
+                    <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18">
                             <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
@@ -59,16 +59,8 @@
                             </div>
                         </div>
     
-                    </div> -->
-    
-                    <div class="vstack my-128 mx-18 space-64">
-                        <!-- change to mt-128 only -->
-    
-                        <div class="text-48">Coming Soon</div>
-    
-                        <!--put stuff here-->
-    
                     </div>
+    
                 </div>
     
                 <hr>
