@@ -23,8 +23,8 @@
                                 <!-- <a href="/files/file1.pdf" target="_blank">download</a> -->
                             </form>
                             <a v-bind:href="`${link}`" :class="{ allowed : allow }" class="h-320 w-full card-bg vstack w-full rounded-8 not-allowed px-36 text-center">
-                                    <img :class="{ shake : shake }" class="h-48 w-48 dark--hidden" v-bind:src="require('../static/' + this.image_link + '-light.svg')"/>
-                                    <img :class="{ shake : shake }" class="h-48 w-48 light--hidden" v-bind:src="require('../static/' + this.image_link + '-dark.svg')"/>
+                                    <img :class="{ shake : shake }" class="h-48 w-48 dark--hidden" v-bind:src="require('../static/' + this.image_link + '-light.png')"/>
+                                    <img :class="{ shake : shake }" class="h-48 w-48 light--hidden" v-bind:src="require('../static/' + this.image_link + '-dark.png')"/>
                                     <div class="mt-16">{{message}}</div>
                                 </a>
                         </div>
