@@ -143,7 +143,7 @@ export default {
         setPassword(e) {
             e.preventDefault()
             this.password = this.password_input
-            if (this.password == "dhapiscool") {
+            if (this.password == "fr0mun!tystreNgth") {
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -157,7 +157,7 @@ export default {
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "fromunitystrength") {
+            } else if (this.password == "dh@pgo3sonlinE") {
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -171,7 +171,7 @@ export default {
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "dhapgoesonline") {
+            } else if (this.password == "dh4p_isFun") {
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -185,7 +185,7 @@ export default {
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "dhapisfun") {
+            } else if (this.password == "dhapi5_c0ol") {
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -199,7 +199,7 @@ export default {
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "hystericalhistoricalcrisis") {
+            } else if (this.password == "hysterical.hist0ricalcr!sis") {
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
