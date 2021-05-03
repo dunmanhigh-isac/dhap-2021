@@ -115,7 +115,32 @@
                     </div>
                 </div>
                 <router-link to="/schedule" class="mb-5 text-underline">Schedule</router-link>
-                <router-link to="/resources" class="mb-5 text-underline">Resources</router-link>
+                <!-- <router-link to="/studyguides" class="mb-5 text-underline">Resources</router-link> -->
+                <div class="zstack group">
+                    <router-link to="/studyguides" class="group mb-5"><i class="fas fa-angle-down"></i> Resources</router-link>
+                    <div class="hidden group-hover:unhidden bottom-0 transform translate-y-100 w-160">
+                        <div class="vstack align-start w-full py-16 card-bg rounded-12 shadow shadow-px shadow-lg">
+                            <!-- Nested drop down item -->
+                            <router-link to="/rop" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Rules of Procedure</div>
+                                </div>
+                            </router-link>
+                            <!-- Nested drop down item -->
+                            <router-link to="/studyguides" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Study Guides</div>
+                                </div>
+                            </router-link>
+                            <!-- Nested drop down item -->
+                            <router-link to="/submission" class="group zstack">
+                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="nested">Position Paper Submission</div>
+                                </div>
+                            </router-link>
+                        </div>
+                    </div>
+                </div>
                 <router-link to="/register" class="mb-5 text-underline">Registration</router-link>
                 <router-link to="/faq" class="mb-5 text-underline">FAQ</router-link>
                 <router-link to="/contact" class="mb-5 text-underline">Contact Us</router-link>
@@ -266,11 +291,35 @@
                                 </div>
                             </router-link>
                             <!-- Drop down item -->
-                            <router-link to="/resources" class="group zstack">
-                                <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
-                                    <div class="">Resources</div>
+                            <div class="group zstack">
+                                <router-link to="/academics" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                    <div class="dropdown">
+                                        <i class="fas fa-angle-left"></i> Resources
+                                    </div>
+                                </router-link>
+                                <div class="hidden group-hover:unhidden ml-8 top-left-0 transform -translate-x-100">
+                                    <div class="vstack align-start w-full py-16 w-224 card-bg rounded-12 shadow shadow-px shadow-lg">
+                                        <!-- Nested drop down item -->
+                                        <div class="group zstack" @click="dismiss">
+                                            <router-link to="/rop" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full" >
+                                                <div class="xs-nested">Rules of Procedure</div>
+                                            </router-link>
+                                        </div>
+                                        <!-- Nested drop down item -->
+                                        <div class="group zstack" @click="dismiss">
+                                            <router-link to="/studyguides" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">Study Guides</div>
+                                            </router-link>
+                                        </div>
+                                        <!-- Nested drop down item -->
+                                        <div class="group zstack" @click="dismiss">
+                                            <router-link to="/submission" class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">
+                                                <div class="xs-nested">Position Paper Submission</div>
+                                            </router-link>
+                                        </div>
+                                    </div>
                                 </div>
-                            </router-link>
+                            </div>
                             <!-- Drop down item -->
                             <router-link to="/register" class="group zstack">
                                 <div class="vstack align-start space-8 p-16 bg-my-gray-hover w-full">

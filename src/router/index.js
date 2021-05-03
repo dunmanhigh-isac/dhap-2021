@@ -22,6 +22,8 @@ import ProjectPlanning from '../views/ProjectPlanning'
 import Design from '../views/Design'
 import OST from '../views/OST'
 import GOH from '../views/GOH'
+import ROP from '../views/ROP'
+import Submission from '../views/Submission'
 
 Vue.use(VueRouter)
 
@@ -61,7 +63,7 @@ const routes = [{
   component: FAQ
 },
 {
-  path: '/resources',
+  path: '/studyguides',
   name: 'Resources',
   component: Resources
 },
@@ -134,6 +136,16 @@ const routes = [{
   path: '/guest-of-honour',
   name: 'goh',
   component: GOH
+},
+{
+  path: '/rop',
+  name: 'rop',
+  component: ROP
+},
+{
+  path: '/submission',
+  name: 'submission',
+  component: Submission
 }
 ]
 
