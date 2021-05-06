@@ -143,7 +143,21 @@ export default {
         setPassword(e) {
             e.preventDefault()
             this.password = this.password_input
-            if (this.password == "fr0mun!tystreNgth") {
+            if (this.password == "fr0mun!tystreNgth") { //m-atm
+                function download(filename) {
+                    var element = document.createElement('a');
+                    element.setAttribute('href', filename);
+                    element.style.display = 'none';
+                    document.body.appendChild(element);
+                    element.click();
+                    document.body.removeChild(element);
+                }
+                download("/files/M-ATM.zip");
+                this.link = '/files/M-ATM.zip'
+                this.allow = true
+                this.image_link = 'Download'
+                this.message = 'Password successfully inputted! If your files did not download, click on this button.'
+            } else if (this.password == "dh@pgo3sonlinE") { //ammtc
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -157,7 +171,7 @@ export default {
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "dh@pgo3sonlinE") {
+            } else if (this.password == "dh4p_isFun") { //aia
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -171,7 +185,7 @@ export default {
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "dh4p_isFun") {
+            } else if (this.password == "dhapi5_c0ol") { //hunsc
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
@@ -180,26 +194,12 @@ export default {
                     element.click();
                     document.body.removeChild(element);
                 }
-                download("/files/zip.zip");
-                this.link = '/files/zip.zip'
+                download("/files/HUNSC.zip");
+                this.link = '/files/HUNSC.zip'
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "dhapi5_c0ol") {
-                function download(filename) {
-                    var element = document.createElement('a');
-                    element.setAttribute('href', filename);
-                    element.style.display = 'none';
-                    document.body.appendChild(element);
-                    element.click();
-                    document.body.removeChild(element);
-                }
-                download("/files/zipp.zip");
-                this.link = '/files/zip.zip'
-                this.allow = true
-                this.image_link = 'Download'
-                this.message = 'Password successfully inputted! If your files did not download, click on this button.'
-            } else if (this.password == "hysterical.hist0ricalcr!sis") {
+            } else if (this.password == "hysterical.hist0ricalcr!sis") { //hcc
                 function download(filename) {
                     var element = document.createElement('a');
                     element.setAttribute('href', filename);
