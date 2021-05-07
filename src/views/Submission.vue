@@ -15,7 +15,7 @@
         <div class="">
             <div class="container">
                 <div class="vstack mb-48 mx-18">
-                    <div class="vstack my-128 mx-18 space-64">
+                    <div class="vstack mt-128 mb-64 mx-18 space-64">
                         <!-- change to mt-128 only -->
     
                         <!-- <div class="text-48">Coming Soon</div> -->
