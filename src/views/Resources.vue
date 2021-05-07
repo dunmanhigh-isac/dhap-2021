@@ -166,8 +166,8 @@ export default {
                     element.click();
                     document.body.removeChild(element);
                 }
-                download("/files/zip.zip");
-                this.link = '/files/zip.zip'
+                download("/files/AMMTC.zip");
+                this.link = '/files/AMMTC.zip'
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
@@ -180,8 +180,8 @@ export default {
                     element.click();
                     document.body.removeChild(element);
                 }
-                download("/files/zip.zip");
-                this.link = '/files/zip.zip'
+                download("/files/AIA.zip");
+                this.link = '/files/AIA.zip'
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
@@ -208,8 +208,8 @@ export default {
                     element.click();
                     document.body.removeChild(element);
                 }
-                download("/files/zip.zip");
-                this.link = '/files/zip.zip'
+                download("/files/HCC.zip");
+                this.link = '/files/HCC.zip'
                 this.allow = true
                 this.image_link = 'Download'
                 this.message = 'Password successfully inputted! If your files did not download, click on this button.'
