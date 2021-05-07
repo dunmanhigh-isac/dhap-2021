@@ -14,10 +14,10 @@
 
     <div class="">
         <div class="container">
-            <div class="vstack my-48 mx-18">
+            <div class="vstack my-128 mx-18">
 
                     <!--put stuff here-->
-                    <div class="align-self-stretch grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-18 sm:p-8" style="justify-content: center;
+                    <!-- <div class="align-self-stretch grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-18 sm:p-8" style="justify-content: center;
   align-items: center;">
                         <div class="glass-card card vstack w-full h-auto card-bg rounded-3 shadow shadow-md card-shadow p-28 align-start space-28">
                             <div class="weight-600 text-36">
@@ -57,7 +57,8 @@
                                 Register
                             </a>
                         </div>
-                    </div>
+                    </div> -->
+                    <div class="text-48">Registration has closed. See you at DHAP 2021!</div>
             </div>
 
             <hr>
