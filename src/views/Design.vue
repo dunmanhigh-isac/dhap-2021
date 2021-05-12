@@ -25,20 +25,22 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Wang Zizhao</div>
-                                <div class="text-18" style="line-height: 1.2;">Zizhao is a bubbly guy who has an affinity with pandas! A minimalist who relates very well to Japanese and Scandinavian design, he strongly believes that good design is invisible, and acts as a medium of precise communication! He hopes that delegates will enjoy DHAP 2021, and learn much too!</div>
+                                <div class="text-18" style="line-height: 1.2;">Zizhao is a bubbly guy who has an affinity with pandas! A minimalist who relates very well to Japanese and Scandinavian design, he strongly believes that good design is invisible, and acts as a medium of precise communication!
+                                    He hopes that delegates will enjoy DHAP 2021, and learn much too!</div>
                             </div>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
     
-                            <img style="object-fit: cover" src="../static/Design/Don.webp" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
+                            <img style="object-fit: cover" src="../static/Design/Don.webp" v-on:dblclick="openLink" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
     
                             <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
-                                <div class="text-36 weight-500 m-0 p-0">Chia Qi En Don</div>
-                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Don is a JC2 student that enjoys programming and photography. He can often be found behind his laptop screen, toiling hard and working on his various projects. Don wishes all delegates a fruitful and one of kind experience in DHAP 2021.</div>
+                                <div class="text-36 weight-500 m-0 p-0" v-on:dblclick="openLink">Chia Qi En Don</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Don is a JC2 student that enjoys programming and photography. He can often be found behind his laptop screen, toiling hard and working on his various projects. Be it app development, web development or UI/UX design, he'll do
+                                    it all! Don wishes all delegates a fruitful and one of kind experience in DHAP 2021.</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
-                            <img style="object-fit: cover" src="../static/Design/Don.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
+                            <img style="object-fit: cover" src="../static/Design/Don.webp" v-on:dblclick="openLink" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16" />
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
@@ -46,7 +48,8 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Chen Xinyi</div>
-                                <div class="text-18" style="line-height: 1.2;">Ironically, Xinyi is a procrastinator with a violent fear of failure. She enjoys falling down Wikipedia rabbit holes and writing unnecessary commentaries on unconventional subjects outside of her (nonexistent) fields of expertise. She hopes that all delegates will have fun at DHAP!</div>
+                                <div class="text-18" style="line-height: 1.2;">Ironically, Xinyi is a procrastinator with a violent fear of failure. She enjoys falling down Wikipedia rabbit holes and writing unnecessary commentaries on unconventional subjects outside of her (nonexistent) fields of expertise.
+                                    She hopes that all delegates will have fun at DHAP!</div>
                             </div>
                         </div>
     
@@ -56,10 +59,11 @@
     
                             <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
                                 <div class="text-36 weight-500 m-0 p-0">Soh Ying Zi Lurlene</div>
-                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Lurlene is a cheerful person with big hopes and aspirations. As a big supporter of positive thinking, she believes that difficult roads often lead to beautiful destinations. She hopes that all delegates would have a fulfilling time in DHAP 2021.</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Lurlene is a cheerful person with big hopes and aspirations. As a big supporter of positive thinking, she believes that difficult roads often lead to beautiful destinations. She hopes that all delegates would have a fulfilling
+                                    time in DHAP 2021.</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
-                            <img style="object-fit: cover" src="../static/Design/Lurlene.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
+                            <img style="object-fit: cover" src="../static/Design/Lurlene.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16" />
                         </div>
     
                     </div>
@@ -79,6 +83,11 @@ import Footer from '../components/Footer'
 export default {
     components: {
         Footer
+    },
+    methods: {
+        openLink() {
+            window.open('https://www.donchia.tech')
+        }
     }
 }
 </script>
