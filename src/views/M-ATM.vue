@@ -35,41 +35,32 @@
                     <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/M-ATM/Saytuan.webp" class="rounded-6 w-full lg:w-320 2xl:w-384  bg-gray-400 h-full mb-16"/>
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
+                                <div class="text-36 weight-500 m-0 p-0">Lim Say Tuan</div>
+                                <div class="text-18" style="line-height: 1.2;">Say Tuan is chronically shy which explains his love for hiding amongst trees. Please do not expect him to tell his barber how to cut his hair - he’ll accept whatever haircut he receives. He hopes that council time will be filled with fun discussion and opportunities to learn!</div>
                             </div>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
     
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/M-ATM/Jessica.webp" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
     
-                            <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
+                                <div class="text-36 weight-500 m-0 p-0 lg:text-right">Liu Jessica Shi Jia</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">With a generic ‘ang mor’ accent and tiny eyes, Jessica is as much of a banana as it gets. Friendly and somewhat outgoing, she loves both meaningful and crackhead conversations, so feel free to approach her, whether for feedback or some friendly banter. She hopes delegates have fun, enjoy the intellectual stimulation of MUN, and have a wholesome(!), meaningful time.</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/M-ATM/Jessica.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/M-ATM/ChuTing.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
+                                <div class="text-36 weight-500 m-0 p-0">Cher Chu Ting</div>
+                                <div class="text-18" style="line-height: 1.2;">Chu Ting is a Year Five student with a mental age of three - as can be seen from her obsession with all things Spongebob themed. Relatively new to MUN and as a first-time chair, she looks forward to an insightful, eye-opening experience this year. Through DHAP, Chu Ting hopes that delegates will hone creative thinking skills as they think out of the box to present innovative solutions to global problems in council!</div>
                             </div>
                         </div>
     

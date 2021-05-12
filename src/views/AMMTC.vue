@@ -37,42 +37,45 @@
                     <div class="vstack mt-128 mx-18 space-64 md:px-128">
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AMMTC/Aaron.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
+                                <div class="text-36 weight-500 m-0 p-0">Aaron Tan Kai Sheng</div>
+                                <div class="text-18" style="line-height: 1.2;">Suffering from a low emotional intelligence and lacking in social skills, kaisheng's hobbies include playing basketball and the piano. He also has two cats which he loves equally.</div>
                             </div>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
     
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AMMTC/Joshua.webp" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
     
-                            <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
+                                <div class="text-36 weight-500 m-0 p-0">Joshua Law Yue Sheng</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Joshua is diligent, helpful and caring towards his peers. He is very adaptable to situations and can easily find solutions to solve problems at hand. He is studious and always strives to do his best.</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AMMTC/Joshua.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AMMTC/Alicia.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
+                                <div class="text-36 weight-500 m-0 p-0">Zhan Haoran Alicia</div>
+                                <div class="text-18" style="line-height: 1.2;">With an uncontrollable love for bread and pastries, Alicia will walk into almost every bakery that she sees. She loves to go cafe-hopping with her friends. She will also sometimes play the violin although she is bad at it.</div>
                             </div>
+                        </div>
+
+                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
+    
+                            <img style="object-fit: cover" src="../static/AMMTC/Shirica.webp" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
+    
+                            <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
+                                <div class="text-36 weight-500 m-0 p-0">Leong Xinyi Shirica</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Shirica is a Year 5 student of English Literature, China Studies, Economics and Math. When not panicking over homework, she can be found asleep or listening to musicals. Having started her MUN journey in DHAP, Shirica hopes delegates will enjoy debate and be motivated to embark on their own.</div>
+                            </div>
+                            <div class="hidden lg:unhidden spacer"></div>
+                            <img style="object-fit: cover" src="../static/AMMTC/Shirica.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
                         </div>
     
                     </div>

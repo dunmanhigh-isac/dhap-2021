@@ -37,39 +37,32 @@
                     <div class="vstack mt-128 mx-18 space-64 md:px-128">
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AIA/ShianPei.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
+                                <div class="text-36 weight-500 m-0 p-0">Tan Shian Pei</div>
+                                <div class="text-18" style="line-height: 1.2;">Shian Pei is a struggling J2 student, she spends what little free time she has playing Genshin Impact (she is a Hutao main!). One year ago, she wondered why she was hearing ”sleep deprived” and “overcommitted” during every MUN self-intro; one year later, she knew both of those sentiments all too well.</div>
                             </div>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                            <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+    
+                            <img style="object-fit: cover" src="../static/AIA/Henry.webp" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
+    
+                            <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
+                                <div class="text-36 weight-500 m-0 p-0">Henry Lim Zhu Heng</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Having taken up H2 Art, Henry is regretting his choices of doing so as he is constantly dying over balancing his time allocated for his artworks, MUN and work from his other subjects. But for some reason, he finds validation and joy in struggling in life and over-committing to external projects. He is excited to be part of this conference and is looking forward to exercising his rights to suffer even more in life. :’)</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AIA/Henry.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
                         </div>
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <img style="object-fit: cover" src="../static/AIA/EeHsuan.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
+                            <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
+                                <div class="text-36 weight-500 m-0 p-0">Ming Ee Hsuan</div>
+                                <div class="text-18" style="line-height: 1.2;">Ee Hsuan is a J1 student, who struggles to cope with the new rigour of Senior High life. She enjoys pop and R&B and looks up to anyone who is able to play the electric guitar. Despite having DHAP moved online, she hopes that delegates will be able to enjoy themselves all the same, and looks forward to meeting them!</div>
                             </div>
                         </div>
                     </div>

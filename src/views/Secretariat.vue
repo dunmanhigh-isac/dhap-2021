@@ -33,7 +33,7 @@
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18">
     
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
+                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-448 mb-16"></div>
     
                             <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
                                 <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
