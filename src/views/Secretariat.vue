@@ -20,7 +20,7 @@
                     <div class="vstack mt-128 mx-18 space-64 md:px-128">
     
                         <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <img style="object-fit: cover" src="../static/Design/Don.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
+                            <img style="object-fit: cover" src="../static/Secretariat/Valene.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Lim Jia Xuan Valene</div>
