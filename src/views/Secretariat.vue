@@ -86,7 +86,7 @@
                             <img style="object-fit: cover" src="../static/Secretariat/ShuHao.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
-                                <div class="text-36 weight-500 m-0 p-0">Shi Shu Hao</div>
+                                <div class="text-36 weight-500 m-0 p-0">Shi Shu Hao </div>
                                 <div class="text-18" style="line-height: 1.2;">Shuhao is a rather average JC 2 student in Dunman High that often regrets his life choices. He wishes for a fun, pleasant and memorable debate for delegates and hopes to push through council, similar to his hopes for his studies.</div>
                             </div>
                         </div>
