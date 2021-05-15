@@ -28,7 +28,7 @@
                             </div>
                         </div>
     
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
+                        <!-- <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
     
                             <img style="object-fit: cover" src="../static/Secretariat/Caitlin.webp" class="rounded-6 unhidden lg:hidden w-full lg:w-320 bg-gray-400 h-full mb-16">
     
@@ -101,7 +101,7 @@
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
                             <img style="object-fit: cover" src="../static/Secretariat/SayTuan.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>
-                        </div>
+                        </div> -->
     
                     </div>
     
