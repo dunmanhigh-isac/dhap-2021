@@ -16,104 +16,8 @@
     
         <div class="">
             <div class="container">
-                <div class="vstack mb-128 mx-18"> <!-- mb-48 -->
-                    <!-- <div class="vstack mt-128 mx-18 space-64 md:px-128 scroll-card">
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                        </div>
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-    
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-    
-                            <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                        </div>
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                        </div>
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-    
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-    
-                            <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                        </div>
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                        </div>
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-    
-                            <div class="unhidden lg:hidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-    
-                            <div class="vstack align-start lg:align-end space-48 lg:mt-16 w-full lg:pr-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="hidden lg:unhidden w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                        </div>
-    
-                        <div v-scroll-reveal class="vstack lg:hstack w-full mx-18 scroll-card">
-                            <div class="w-full lg:w-512 bg-gray-400 h-320 mb-16"></div>
-                            <div class="hidden lg:unhidden spacer"></div>
-                            <div class="vstack align-start space-48 mt-16 w-full lg:pl-128">
-                                <div class="w-128 h-20 bg-gray-300 rounded-full"></div>
-                                <div class="vstack space-14 align-start">
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                    <div class="w-full h-20 bg-gray-400 rounded-full"></div>
-                                </div>
-                            </div>
-                        </div>
-    
-                    </div> -->
-    
+                <div class="vstack my-64 mx-18">
+                    <img src="../static/OST/OST.webp" class="rounded-6 w-full w-75vw bg-gray-400 h-full mb-16">
                 </div>
     
                 <hr>
@@ -123,6 +27,14 @@
         </div>
     </div>
 </template>
+
+<style scoped>
+@media only screen and (min-width: 992px) {
+    .w-75vw {
+        width: 75vw;
+    }
+}
+</style>
 
 <script>
 import Footer from '../components/Footer'
