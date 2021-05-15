@@ -72,7 +72,7 @@
                             <img style="object-fit: cover" src="../static/HCC/Joseph.webp" class="rounded-6 w-full lg:w-320 bg-gray-400 h-full mb-16">
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
-                                <div class="text-36 weight-500 m-0 p-0">Gan Ru Sheryn, Joseph</div>
+                                <div class="text-36 weight-500 m-0 p-0">Gan Ru Shern, Joseph</div>
                                 <div class="text-18" style="line-height: 1.2;">Just like what the council's name states, Joseph has to confess that life now is nothing but a crisis. Joseph thus seeks simpler pleasures life has to offer, such as food, sleep and lots of sugar. On the bright side (thankfully), MUNs and great peer support is what keeps his sanity. Overall, he sincerely hopes all that delegates will reap meaningful discussions and forge friendships during DHAP 2021.</div>
                             </div>
                         </div>
