@@ -13,7 +13,7 @@
             </div>
         </div>
     
-        <div class="">
+        <!-- <div class="">
             <div class="container">
                 <div class="vstack mb-48 mx-18">
     
@@ -111,7 +111,7 @@
     
                 <Footer />
             </div>
-        </div>
+        </div> -->
     </div>
 </template>
 
