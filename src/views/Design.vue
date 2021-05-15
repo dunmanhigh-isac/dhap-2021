@@ -36,8 +36,7 @@
     
                             <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
                                 <div class="text-36 weight-500 m-0 p-0" v-on:dblclick="openLink">Chia Qi En Don</div>
-                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Don is a JC2 student that enjoys programming and photography. He can often be found behind his laptop screen, toiling hard and working on his various projects. Be it app development, web development or UI/UX design, he'll do
-                                    it all! Don wishes all delegates a fruitful and one of kind experience in DHAP 2021.</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Don is a JC2 student that enjoys programming and photography. He can often be found behind his laptop screen, toiling hard and working on his various projects. Don wishes all delegates a fruitful and one-of-a-kind experience in DHAP 2021.</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
                             <img style="object-fit: cover" src="../static/Design/Don.webp" v-on:dblclick="openLink" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16" />

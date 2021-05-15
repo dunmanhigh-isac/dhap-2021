@@ -62,7 +62,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Zhan Haoran Alicia</div>
-                                <div class="text-18" style="line-height: 1.2;">With an uncontrollable love for bread and pastries, Alicia will walk into almost every bakery that she sees. She loves to go cafe-hopping with her friends. She will also sometimes play the violin although she is bad at it.</div>
+                                <div class="text-18" style="line-height: 1.2;">With an uncontrollable love for bread and pastries, Alicia will walk into almost every bakery that she sees. She loves to go cafe-hopping with her friends. She also plays the violin once in a while although she is bad at it.</div>
                             </div>
                         </div>
 
@@ -72,7 +72,7 @@
     
                             <div class="vstack align-start lg:align-end space-18 lg:mt-16 w-full lg:pr-64">
                                 <div class="text-36 weight-500 m-0 p-0">Leong Xinyi Shirica</div>
-                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Shirica is a Year 5 student of English Literature, China Studies, Economics and Math. When not panicking over homework, she can be found asleep or listening to musicals. Having started her MUN journey in DHAP, Shirica hopes delegates will enjoy debate and be motivated to embark on their own.</div>
+                                <div class="text-18 text-left lg:text-right" style="line-height: 1.2;">Shirica is a Year 5 student who takes English Literature, China Studies, Economics and Math. When not panicking over homework, she can be found asleep or listening to musicals. Having started her MUN journey in DHAP, Shirica hopes delegates will enjoy debates and be motivated to embark on their own too!</div>
                             </div>
                             <div class="hidden lg:unhidden spacer"></div>
                             <img style="object-fit: cover" src="../static/AMMTC/Shirica.webp" class="rounded-6 hidden lg:unhidden w-full lg:w-320 bg-gray-400 h-full mb-16"/>

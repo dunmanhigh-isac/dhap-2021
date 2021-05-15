@@ -62,7 +62,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Ming Ee Hsuan</div>
-                                <div class="text-18" style="line-height: 1.2;">Ee Hsuan is a J1 student, who struggles to cope with the new rigour of Senior High life. She enjoys pop and R&B and looks up to anyone who is able to play the electric guitar. Despite having DHAP moved online, she hopes that delegates will be able to enjoy themselves all the same, and looks forward to meeting them!</div>
+                                <div class="text-18" style="line-height: 1.2;">Ee Hsuan is a J1 student, who struggles to cope with the new rigour of Senior High life. She enjoys pop and R&B and looks up to anyone who is able to play the electric guitar. Despite having DHAP shifted online, she hopes that delegates will be able to enjoy themselves all the same, and looks forward to meeting them!</div>
                             </div>
                         </div>
                     </div>

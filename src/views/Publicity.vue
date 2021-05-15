@@ -24,7 +24,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Manasarow Gunasekaran</div>
-                                <div class="text-18" style="line-height: 1.2;">Mana is a typical Y6 student who is struggling to survive each passing day. When she is not rushing to finish her tutorial a day before submission, you can find her binge watching K-dramas and surfing through the internet (even though she knows that she has no time to slack). Lastly, Mana hopes that all delegates will have a fun and fruitful time during DHAP this year:)</div>
+                                <div class="text-18" style="line-height: 1.2;">Mana is a typical Y6 student who is struggling to survive each passing day. When she is not rushing to finish her tutorial a day before submission, you can find her binge watching K-dramas and surfing through the internet (even though she knows that she has no time to slack). Lastly, Mana hopes that all delegates will have a fun and fruitful time during DHAP this year :)</div>
                             </div>
                         </div>
     

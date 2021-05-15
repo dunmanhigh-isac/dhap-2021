@@ -39,7 +39,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Lim Say Tuan</div>
-                                <div class="text-18" style="line-height: 1.2;">Say Tuan is chronically shy which explains his love for hiding amongst trees. Please do not expect him to tell his barber how to cut his hair - he’ll accept whatever haircut he receives. He hopes that council time will be filled with fun discussion and opportunities to learn!</div>
+                                <div class="text-18" style="line-height: 1.2;">Say Tuan is chronically shy which explains his love for hiding amongst trees. Please do not expect him to tell his barber how to cut his hair - he’ll accept whatever haircut he receives. He hopes that council sessions will be filled with fun discussions and opportunities to learn!</div>
                             </div>
                         </div>
     

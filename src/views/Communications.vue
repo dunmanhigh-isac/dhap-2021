@@ -26,7 +26,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Ang Wei Lun</div>
-                                <div class="text-18" style="line-height: 1.2;">Being a part of the communication team, typing out content for the programme booklet, invitational package was extremely daunting. While WeiLun’s sentences were grammatically correct, they were wordy and hard to read and compromised the message. However, with Grammarly cutting edge technology,  crafting compelling and understandable messages has never been easier.</div>
+                                <div class="text-18" style="line-height: 1.2;">Being a part of the Communications team, typing out content for the programme booklet and invitational package was extremely daunting. While Wei Lun’s sentences were grammatically correct, they were wordy and hard to read. However, with Grammarly cutting edge technology,  crafting compelling and concise messages has never been easier.</div>
                             </div>
                         </div>
     
@@ -47,7 +47,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Lyu Xin Kai</div>
-                                <div class="text-18" style="line-height: 1.2;">Xinkai is a Year 6 student who takes Physics, Math, CLL and Econs. She is a JAE student who joined ISAC in 2020 and has contributed to DHAP 2020.</div>
+                                <div class="text-18" style="line-height: 1.2;">Xinkai is a Year 6 student who takes Physics, Math, CLL and Econs. Fun fact: She is a JAE student!</div>
                             </div>
                         </div>
 
@@ -68,7 +68,7 @@
                             <div class="hidden lg:unhidden spacer"></div>
                             <div class="vstack align-start space-18 mt-16 w-full lg:pl-64">
                                 <div class="text-36 weight-500 m-0 p-0">Ong Yee Huan</div>
-                                <div class="text-18" style="line-height: 1.2;">Yee Huan is a science student with a passion for languages taking the interesting subject combi of PCMELL. She enjoys signing up for all sorts of events just for the merch. In her free time, she can be commonly found napping or trying not to fall asleep.</div>
+                                <div class="text-18" style="line-height: 1.2;">Yee Huan is a science student with a passion for languages, taking the interesting subject combi of PCMELL. She enjoys signing up for all sorts of events just for the merch. In her free time, she can be commonly found napping or trying her best not to fall asleep.</div>
                             </div>
                         </div>
 
