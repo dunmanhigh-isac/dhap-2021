@@ -45,8 +45,8 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>0945 - 1000</h1>
-                                        <p class="text-20">Technical Check</p>
+                                        <h1>0930 - 1000</h1>
+                                        <p class="text-20">Registration</p>
                                     </div>
                                 </div>
     
@@ -55,7 +55,7 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>1000 - 1115</h1>
+                                        <h1>1000 - 1130</h1>
                                         <p class="text-20">Opening Ceremony</p>
                                     </div>
                                 </div>
@@ -64,7 +64,7 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>1115 - 1230</h1>
+                                        <h1>1130 - 1230</h1>
                                         <p class="text-20">Lunch</p>
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>1430 – 1500</h1>
+                                        <h1>1330 – 1400</h1>
                                         <p class="text-20">Break</p>
                                     </div>
                                 </div>
@@ -158,7 +158,7 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>1500 - 1630</h1>
+                                        <h1>1400 - 1530</h1>
                                         <p class="text-20">Council Session 5</p>
                                     </div>
                                 </div>
