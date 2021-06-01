@@ -45,7 +45,7 @@
                                     <div class="timeline-img"></div>
     
                                     <div class="timeline-content js--fadeInLeft">
-                                        <h1>0930 - 1000</h1>
+                                        <h1>0915 - 0945</h1>
                                         <p class="text-20">Registration</p>
                                     </div>
                                 </div>
